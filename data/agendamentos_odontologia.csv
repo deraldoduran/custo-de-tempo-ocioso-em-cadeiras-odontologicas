@@ -1,0 +1,1201 @@
+﻿id_agendamento,id_paciente,idade,genero,especialidade,procedimento,duracao_minutos,valor_procedimento,tipo_pagamento,dias_antecedencia,dia_semana,periodo,confirmou_whatsapp,historico_faltas,status
+AGD-1001,PAC-0427,22,Feminino,Clínica Geral,Restauração em Resina,30,220,Convênio,9,Segunda,Noite,Não,0,Compareceu
+AGD-1002,PAC-0225,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,4,Terça,Manhã,Sim,0,Compareceu
+AGD-1003,PAC-0479,42,Feminino,Clínica Geral,Avaliação Inicial,30,280,Particular,5,Quarta,Tarde,Sim,0,Compareceu
+AGD-1004,PAC-0116,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,2,Sábado,Noite,Sim,0,Compareceu
+AGD-1005,PAC-0358,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,8,Segunda,Noite,Sim,0,Compareceu
+AGD-1006,PAC-0329,34,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,7,Sexta,Noite,Sim,2,Faltou
+AGD-1007,PAC-0316,18,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,3,Quarta,Manhã,Sim,0,Faltou
+AGD-1008,PAC-0490,28,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Convênio,11,Sexta,Tarde,Sim,0,Compareceu
+AGD-1009,PAC-0294,12,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,3,Terça,Manhã,Sim,1,Compareceu
+AGD-1010,PAC-0235,46,Feminino,Clínica Geral,Restauração em Resina,60,280,Convênio,11,Quinta,Tarde,Sim,0,Compareceu
+AGD-1011,PAC-0374,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,5,Segunda,Tarde,Sim,2,Compareceu
+AGD-1012,PAC-0250,26,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,120,1500,Convênio,13,Sexta,Tarde,Não,0,Compareceu
+AGD-1013,PAC-0395,30,Masculino,Implantodontia / Cirurgia,Instalação de Implante,120,450,Particular,4,Terça,Manhã,Sim,1,Faltou
+AGD-1014,PAC-0123,18,Feminino,Clínica Geral,Avaliação Inicial,30,220,Particular,5,Terça,Noite,Sim,1,Compareceu
+AGD-1015,PAC-0140,32,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,380,Particular,0,Quarta,Manhã,Sim,0,Compareceu
+AGD-1016,PAC-0242,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,33,Terça,Manhã,Não,0,Compareceu
+AGD-1017,PAC-0281,31,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,6,Terça,Tarde,Não,0,Faltou
+AGD-1018,PAC-0425,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,5,Quinta,Tarde,Sim,0,Compareceu
+AGD-1019,PAC-0294,46,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,850,Convênio,16,Terça,Manhã,Não,0,Compareceu
+AGD-1020,PAC-0450,35,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,850,Convênio,18,Terça,Manhã,Sim,0,Compareceu
+AGD-1021,PAC-0520,46,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,2200,Convênio,0,Segunda,Noite,Sim,0,Faltou
+AGD-1022,PAC-0237,18,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,9,Quinta,Tarde,Sim,0,Compareceu
+AGD-1023,PAC-0435,55,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1400,Particular,3,Quinta,Tarde,Sim,0,Compareceu
+AGD-1024,PAC-0173,41,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Particular,1,Quarta,Tarde,Sim,1,Faltou
+AGD-1025,PAC-0481,49,Feminino,Endodontia,Retratamento Endodôntico,120,1100,Convênio,3,Sábado,Noite,Não,0,Faltou
+AGD-1026,PAC-0482,26,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Convênio,22,Terça,Manhã,Não,1,Faltou
+AGD-1027,PAC-0212,18,Masculino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,10,Segunda,Tarde,Sim,1,Compareceu
+AGD-1028,PAC-0146,45,Masculino,Clínica Geral,Restauração em Resina,30,160,Particular,12,Sexta,Tarde,Sim,0,Compareceu
+AGD-1029,PAC-0421,4,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,250,Convênio,0,Terça,Manhã,Sim,0,Compareceu
+AGD-1030,PAC-0297,45,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1400,Particular,1,Segunda,Tarde,Sim,0,Compareceu
+AGD-1031,PAC-0370,71,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Particular,3,Quinta,Noite,Sim,1,Compareceu
+AGD-1032,PAC-0448,15,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,4,Sábado,Tarde,Sim,0,Compareceu
+AGD-1033,PAC-0250,63,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Convênio,10,Quinta,Manhã,Sim,0,Compareceu
+AGD-1034,PAC-0101,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1035,PAC-0252,37,Feminino,Clínica Geral,Avaliação Inicial,60,160,Particular,7,Segunda,Tarde,Sim,0,Compareceu
+AGD-1036,PAC-0178,24,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,650,Particular,0,Sexta,Tarde,Sim,0,Compareceu
+AGD-1037,PAC-0406,18,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Convênio,3,Quarta,Tarde,Não,3,Faltou
+AGD-1038,PAC-0157,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,0,Segunda,Manhã,Sim,0,Faltou
+AGD-1039,PAC-0223,55,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,450,Convênio,16,Segunda,Tarde,Não,1,Faltou
+AGD-1040,PAC-0474,16,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,3,Sexta,Noite,Sim,1,Compareceu
+AGD-1041,PAC-0437,11,Feminino,Odontopediatria,Restauração Decíduo,30,190,Particular,18,Quinta,Tarde,Não,0,Faltou
+AGD-1042,PAC-0546,11,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,140,Particular,3,Segunda,Noite,Não,2,Faltou
+AGD-1043,PAC-0486,18,Feminino,Endodontia,Retratamento Endodôntico,120,850,Convênio,12,Quinta,Tarde,Sim,0,Faltou
+AGD-1044,PAC-0465,31,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Particular,1,Sexta,Manhã,Sim,1,Compareceu
+AGD-1045,PAC-0324,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,0,Segunda,Tarde,Não,0,Faltou
+AGD-1046,PAC-0132,27,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Convênio,0,Quarta,Tarde,Sim,0,Compareceu
+AGD-1047,PAC-0401,34,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,7,Segunda,Tarde,Sim,3,Faltou
+AGD-1048,PAC-0423,3,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,140,Convênio,0,Sábado,Manhã,Sim,2,Compareceu
+AGD-1049,PAC-0540,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,9,Sábado,Tarde,Sim,0,Compareceu
+AGD-1050,PAC-0442,5,Feminino,Odontopediatria,Restauração Decíduo,30,250,Convênio,4,Terça,Noite,Sim,0,Compareceu
+AGD-1051,PAC-0470,35,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,34,Quinta,Manhã,Sim,1,Faltou
+AGD-1052,PAC-0224,25,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,900,Convênio,7,Sexta,Noite,Não,0,Compareceu
+AGD-1053,PAC-0148,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,1,Terça,Tarde,Sim,0,Compareceu
+AGD-1054,PAC-0310,4,Masculino,Odontopediatria,Restauração Decíduo,30,250,Particular,0,Quarta,Tarde,Sim,1,Compareceu
+AGD-1055,PAC-0131,44,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Convênio,2,Quinta,Noite,Sim,0,Compareceu
+AGD-1056,PAC-0227,47,Masculino,Endodontia,Tratamento de Canal (Molar),60,1400,Convênio,5,Terça,Manhã,Sim,1,Compareceu
+AGD-1057,PAC-0171,22,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Particular,0,Sexta,Tarde,Sim,1,Compareceu
+AGD-1058,PAC-0336,37,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,3,Segunda,Manhã,Não,0,Faltou
+AGD-1059,PAC-0541,31,Masculino,Clínica Geral,Avaliação Inicial,30,100,Particular,20,Sexta,Noite,Sim,0,Compareceu
+AGD-1060,PAC-0433,56,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1061,PAC-0185,18,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,5,Terça,Manhã,Sim,0,Compareceu
+AGD-1062,PAC-0542,24,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,1,Terça,Manhã,Sim,0,Compareceu
+AGD-1063,PAC-0101,36,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Convênio,20,Quinta,Manhã,Sim,0,Compareceu
+AGD-1064,PAC-0246,38,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,2200,Particular,7,Terça,Manhã,Sim,0,Compareceu
+AGD-1065,PAC-0179,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,6,Quinta,Noite,Sim,0,Compareceu
+AGD-1066,PAC-0396,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Terça,Manhã,Sim,0,Compareceu
+AGD-1067,PAC-0399,52,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,850,Convênio,10,Segunda,Tarde,Sim,0,Compareceu
+AGD-1068,PAC-0129,47,Masculino,Clínica Geral,Avaliação Inicial,30,160,Convênio,7,Quarta,Manhã,Sim,0,Faltou
+AGD-1069,PAC-0135,15,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,18,Terça,Manhã,Sim,0,Compareceu
+AGD-1070,PAC-0391,34,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,1,Sexta,Tarde,Não,0,Compareceu
+AGD-1071,PAC-0141,25,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Particular,4,Quinta,Manhã,Sim,0,Compareceu
+AGD-1072,PAC-0233,46,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Particular,3,Quarta,Tarde,Sim,0,Compareceu
+AGD-1073,PAC-0222,18,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,7,Terça,Tarde,Sim,0,Compareceu
+AGD-1074,PAC-0443,43,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Convênio,6,Terça,Manhã,Sim,1,Compareceu
+AGD-1075,PAC-0484,31,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,5,Segunda,Tarde,Sim,0,Compareceu
+AGD-1076,PAC-0388,29,Feminino,Implantodontia / Cirurgia,Instalação de Implante,60,900,Particular,11,Terça,Tarde,Sim,0,Compareceu
+AGD-1077,PAC-0359,50,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Convênio,3,Segunda,Noite,Sim,0,Compareceu
+AGD-1078,PAC-0135,39,Masculino,Clínica Geral,Restauração em Resina,45,220,Particular,2,Sexta,Manhã,Sim,1,Compareceu
+AGD-1079,PAC-0180,33,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,1500,Particular,4,Segunda,Tarde,Sim,1,Compareceu
+AGD-1080,PAC-0413,49,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,120,450,Particular,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-1081,PAC-0441,25,Masculino,Endodontia,Retratamento Endodôntico,90,650,Particular,7,Segunda,Tarde,Não,0,Compareceu
+AGD-1082,PAC-0549,18,Masculino,Endodontia,Tratamento de Canal (Molar),90,650,Particular,6,Sábado,Tarde,Sim,0,Compareceu
+AGD-1083,PAC-0154,36,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Particular,20,Sábado,Tarde,Sim,1,Compareceu
+AGD-1084,PAC-0409,48,Feminino,Clínica Geral,Restauração em Resina,60,220,Particular,3,Terça,Tarde,Sim,0,Compareceu
+AGD-1085,PAC-0204,55,Feminino,Clínica Geral,Avaliação Inicial,60,220,Particular,1,Terça,Tarde,Sim,0,Compareceu
+AGD-1086,PAC-0358,26,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,100,Convênio,1,Quinta,Manhã,Sim,3,Compareceu
+AGD-1087,PAC-0147,12,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,11,Quarta,Tarde,Não,0,Faltou
+AGD-1088,PAC-0270,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,11,Quarta,Tarde,Sim,0,Compareceu
+AGD-1089,PAC-0326,21,Feminino,Clínica Geral,Avaliação Inicial,60,280,Particular,2,Sexta,Noite,Sim,0,Faltou
+AGD-1090,PAC-0387,34,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Quinta,Manhã,Sim,0,Compareceu
+AGD-1091,PAC-0176,40,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,1500,Particular,2,Quinta,Manhã,Sim,1,Compareceu
+AGD-1092,PAC-0398,22,Feminino,Clínica Geral,Avaliação Inicial,30,280,Particular,1,Sexta,Manhã,Sim,0,Compareceu
+AGD-1093,PAC-0165,46,Masculino,Clínica Geral,Restauração em Resina,45,220,Particular,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-1094,PAC-0507,18,Feminino,Clínica Geral,Restauração em Resina,45,160,Particular,16,Sábado,Tarde,Não,0,Compareceu
+AGD-1095,PAC-0449,61,Feminino,Clínica Geral,Restauração em Resina,60,100,Convênio,2,Terça,Tarde,Sim,0,Compareceu
+AGD-1096,PAC-0281,30,Feminino,Clínica Geral,Avaliação Inicial,45,160,Convênio,2,Sexta,Manhã,Sim,0,Compareceu
+AGD-1097,PAC-0221,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,7,Segunda,Noite,Sim,0,Compareceu
+AGD-1098,PAC-0191,6,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,190,Particular,1,Quarta,Tarde,Sim,1,Compareceu
+AGD-1099,PAC-0236,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1100,PAC-0539,27,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,250,Particular,7,Terça,Manhã,Sim,0,Compareceu
+AGD-1101,PAC-0518,33,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Convênio,4,Quinta,Tarde,Sim,0,Compareceu
+AGD-1102,PAC-0520,41,Feminino,Endodontia,Tratamento de Canal (Molar),60,650,Particular,19,Quinta,Manhã,Não,0,Compareceu
+AGD-1103,PAC-0437,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,8,Sexta,Tarde,Não,1,Faltou
+AGD-1104,PAC-0542,44,Feminino,Clínica Geral,Restauração em Resina,45,220,Particular,9,Quarta,Noite,Não,0,Compareceu
+AGD-1105,PAC-0428,40,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Particular,14,Sexta,Tarde,Sim,0,Compareceu
+AGD-1106,PAC-0159,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1107,PAC-0155,50,Masculino,Clínica Geral,Avaliação Inicial,45,220,Convênio,0,Terça,Manhã,Sim,1,Compareceu
+AGD-1108,PAC-0473,41,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,450,Particular,5,Terça,Tarde,Sim,0,Compareceu
+AGD-1109,PAC-0297,18,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,60,1500,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1110,PAC-0122,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,1,Quarta,Manhã,Sim,2,Faltou
+AGD-1111,PAC-0320,18,Masculino,Clínica Geral,Restauração em Resina,60,220,Convênio,1,Sábado,Tarde,Sim,3,Compareceu
+AGD-1112,PAC-0419,42,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Particular,12,Segunda,Manhã,Sim,0,Compareceu
+AGD-1113,PAC-0468,9,Masculino,Odontopediatria,Restauração Decíduo,45,250,Particular,11,Sábado,Manhã,Sim,1,Compareceu
+AGD-1114,PAC-0267,18,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,0,Quarta,Tarde,Sim,1,Faltou
+AGD-1115,PAC-0315,5,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Convênio,6,Sexta,Tarde,Sim,0,Compareceu
+AGD-1116,PAC-0415,21,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,9,Quarta,Manhã,Não,0,Compareceu
+AGD-1117,PAC-0246,72,Masculino,Clínica Geral,Restauração em Resina,45,220,Convênio,6,Sexta,Manhã,Não,0,Compareceu
+AGD-1118,PAC-0338,49,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,850,Convênio,1,Quinta,Tarde,Sim,2,Faltou
+AGD-1119,PAC-0361,4,Feminino,Odontopediatria,Restauração Decíduo,30,250,Particular,13,Terça,Tarde,Sim,1,Faltou
+AGD-1120,PAC-0245,45,Masculino,Clínica Geral,Avaliação Inicial,60,220,Particular,8,Sábado,Tarde,Não,0,Faltou
+AGD-1121,PAC-0147,45,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,1500,Particular,22,Quinta,Noite,Sim,1,Compareceu
+AGD-1122,PAC-0215,38,Feminino,Implantodontia / Cirurgia,Instalação de Implante,60,450,Convênio,0,Quinta,Manhã,Não,1,Compareceu
+AGD-1123,PAC-0123,43,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,450,Particular,11,Segunda,Manhã,Sim,1,Compareceu
+AGD-1124,PAC-0333,30,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Convênio,9,Quarta,Manhã,Sim,0,Compareceu
+AGD-1125,PAC-0456,34,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1400,Particular,2,Quarta,Tarde,Sim,3,Compareceu
+AGD-1126,PAC-0224,36,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,15,Segunda,Tarde,Não,0,Faltou
+AGD-1127,PAC-0317,11,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,250,Convênio,7,Sexta,Tarde,Sim,0,Compareceu
+AGD-1128,PAC-0337,21,Masculino,Endodontia,Tratamento de Canal (Molar),120,850,Particular,9,Quarta,Manhã,Sim,0,Compareceu
+AGD-1129,PAC-0534,37,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,4,Terça,Tarde,Sim,0,Compareceu
+AGD-1130,PAC-0337,18,Masculino,Clínica Geral,Avaliação Inicial,60,220,Particular,5,Sexta,Tarde,Sim,0,Compareceu
+AGD-1131,PAC-0486,17,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,0,Quinta,Tarde,Sim,0,Faltou
+AGD-1132,PAC-0480,48,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Particular,6,Segunda,Manhã,Não,1,Faltou
+AGD-1133,PAC-0484,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,22,Quinta,Tarde,Sim,0,Compareceu
+AGD-1134,PAC-0222,7,Masculino,Odontopediatria,Restauração Decíduo,45,140,Convênio,0,Sexta,Manhã,Sim,2,Compareceu
+AGD-1135,PAC-0220,43,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Particular,1,Segunda,Manhã,Sim,1,Compareceu
+AGD-1136,PAC-0376,68,Feminino,Clínica Geral,Restauração em Resina,30,160,Particular,6,Sexta,Tarde,Sim,1,Compareceu
+AGD-1137,PAC-0218,22,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Particular,4,Segunda,Manhã,Sim,1,Compareceu
+AGD-1138,PAC-0209,45,Feminino,Clínica Geral,Restauração em Resina,45,280,Particular,16,Terça,Noite,Sim,0,Compareceu
+AGD-1139,PAC-0269,18,Masculino,Clínica Geral,Avaliação Inicial,45,280,Convênio,7,Sexta,Manhã,Sim,1,Compareceu
+AGD-1140,PAC-0131,12,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,15,Terça,Noite,Sim,0,Compareceu
+AGD-1141,PAC-0456,29,Feminino,Clínica Geral,Restauração em Resina,60,280,Particular,3,Terça,Tarde,Sim,3,Compareceu
+AGD-1142,PAC-0344,31,Masculino,Clínica Geral,Restauração em Resina,45,220,Particular,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-1143,PAC-0485,42,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Particular,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-1144,PAC-0349,43,Masculino,Clínica Geral,Restauração em Resina,45,280,Particular,2,Sexta,Manhã,Sim,0,Compareceu
+AGD-1145,PAC-0348,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,5,Quarta,Noite,Sim,0,Compareceu
+AGD-1146,PAC-0447,44,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,380,Convênio,4,Sábado,Tarde,Sim,0,Compareceu
+AGD-1147,PAC-0165,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,8,Terça,Tarde,Sim,3,Compareceu
+AGD-1148,PAC-0429,35,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Convênio,5,Sexta,Noite,Sim,0,Compareceu
+AGD-1149,PAC-0193,22,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,8,Quinta,Tarde,Sim,0,Compareceu
+AGD-1150,PAC-0208,41,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Particular,16,Segunda,Noite,Não,1,Compareceu
+AGD-1151,PAC-0489,7,Feminino,Odontopediatria,Restauração Decíduo,45,190,Convênio,11,Terça,Tarde,Sim,1,Compareceu
+AGD-1152,PAC-0527,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,4,Segunda,Manhã,Sim,1,Compareceu
+AGD-1153,PAC-0376,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,8,Terça,Manhã,Sim,0,Compareceu
+AGD-1154,PAC-0135,6,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,3,Quarta,Manhã,Sim,0,Compareceu
+AGD-1155,PAC-0202,47,Masculino,Endodontia,Tratamento de Canal (Molar),120,850,Particular,0,Sábado,Manhã,Não,0,Faltou
+AGD-1156,PAC-0222,46,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Particular,5,Sábado,Manhã,Sim,0,Compareceu
+AGD-1157,PAC-0158,18,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,60,2200,Particular,1,Quinta,Manhã,Sim,0,Compareceu
+AGD-1158,PAC-0458,43,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Particular,26,Segunda,Tarde,Não,0,Faltou
+AGD-1159,PAC-0410,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,17,Sábado,Tarde,Sim,0,Compareceu
+AGD-1160,PAC-0396,20,Masculino,Clínica Geral,Restauração em Resina,45,280,Particular,8,Terça,Tarde,Sim,0,Compareceu
+AGD-1161,PAC-0303,28,Feminino,Endodontia,Retratamento Endodôntico,60,650,Particular,0,Quinta,Noite,Sim,0,Compareceu
+AGD-1162,PAC-0403,30,Masculino,Endodontia,Retratamento Endodôntico,120,850,Particular,9,Quarta,Noite,Sim,0,Compareceu
+AGD-1163,PAC-0152,18,Masculino,Endodontia,Retratamento Endodôntico,90,650,Convênio,6,Segunda,Manhã,Sim,0,Faltou
+AGD-1164,PAC-0507,11,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,190,Particular,0,Terça,Manhã,Sim,0,Compareceu
+AGD-1165,PAC-0319,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,3,Sexta,Tarde,Sim,0,Compareceu
+AGD-1166,PAC-0534,61,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Convênio,1,Segunda,Tarde,Sim,1,Compareceu
+AGD-1167,PAC-0321,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,12,Quinta,Manhã,Sim,2,Compareceu
+AGD-1168,PAC-0190,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,5,Sábado,Tarde,Sim,0,Compareceu
+AGD-1169,PAC-0522,38,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,2,Sexta,Tarde,Sim,0,Compareceu
+AGD-1170,PAC-0144,43,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Particular,7,Terça,Manhã,Não,0,Compareceu
+AGD-1171,PAC-0484,32,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Particular,16,Segunda,Tarde,Não,1,Compareceu
+AGD-1172,PAC-0114,44,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,3,Quarta,Manhã,Sim,3,Compareceu
+AGD-1173,PAC-0349,22,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,11,Sábado,Tarde,Sim,0,Compareceu
+AGD-1174,PAC-0243,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,26,Segunda,Manhã,Não,0,Faltou
+AGD-1175,PAC-0223,18,Feminino,Clínica Geral,Avaliação Inicial,45,280,Convênio,8,Quinta,Manhã,Sim,0,Compareceu
+AGD-1176,PAC-0384,42,Feminino,Clínica Geral,Restauração em Resina,60,280,Convênio,32,Sábado,Manhã,Sim,0,Faltou
+AGD-1177,PAC-0430,42,Feminino,Clínica Geral,Avaliação Inicial,45,280,Convênio,7,Quarta,Noite,Sim,0,Compareceu
+AGD-1178,PAC-0505,29,Feminino,Clínica Geral,Restauração em Resina,30,220,Particular,3,Sexta,Tarde,Sim,0,Compareceu
+AGD-1179,PAC-0213,37,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,900,Convênio,1,Segunda,Manhã,Sim,0,Faltou
+AGD-1180,PAC-0256,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Sexta,Noite,Sim,0,Compareceu
+AGD-1181,PAC-0481,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,5,Segunda,Manhã,Sim,0,Compareceu
+AGD-1182,PAC-0256,35,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Particular,9,Sábado,Tarde,Sim,0,Compareceu
+AGD-1183,PAC-0469,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,18,Quarta,Tarde,Não,0,Faltou
+AGD-1184,PAC-0374,44,Feminino,Clínica Geral,Avaliação Inicial,30,160,Particular,10,Quinta,Manhã,Sim,0,Faltou
+AGD-1185,PAC-0210,28,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Particular,11,Terça,Manhã,Sim,0,Compareceu
+AGD-1186,PAC-0401,21,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,0,Quinta,Manhã,Sim,3,Compareceu
+AGD-1187,PAC-0216,20,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Convênio,6,Quinta,Tarde,Não,0,Compareceu
+AGD-1188,PAC-0107,30,Masculino,Clínica Geral,Avaliação Inicial,60,160,Convênio,13,Quinta,Tarde,Sim,0,Compareceu
+AGD-1189,PAC-0240,29,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Convênio,2,Quarta,Tarde,Sim,0,Compareceu
+AGD-1190,PAC-0249,20,Feminino,Endodontia,Retratamento Endodôntico,60,1400,Convênio,20,Sexta,Noite,Não,0,Faltou
+AGD-1191,PAC-0152,10,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,6,Sexta,Tarde,Não,3,Faltou
+AGD-1192,PAC-0325,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,5,Quinta,Tarde,Sim,1,Compareceu
+AGD-1193,PAC-0541,18,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,650,Convênio,11,Quinta,Noite,Sim,0,Faltou
+AGD-1194,PAC-0305,16,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,12,Sábado,Manhã,Sim,0,Compareceu
+AGD-1195,PAC-0176,39,Feminino,Endodontia,Retratamento Endodôntico,90,650,Convênio,0,Terça,Tarde,Sim,1,Compareceu
+AGD-1196,PAC-0227,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,2,Terça,Manhã,Não,1,Faltou
+AGD-1197,PAC-0367,46,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Convênio,0,Quarta,Tarde,Sim,0,Compareceu
+AGD-1198,PAC-0252,31,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,6,Quarta,Tarde,Sim,0,Compareceu
+AGD-1199,PAC-0478,42,Masculino,Endodontia,Tratamento de Canal (Molar),60,850,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1200,PAC-0235,39,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,900,Particular,0,Segunda,Manhã,Sim,0,Compareceu
+AGD-1201,PAC-0222,58,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Convênio,12,Quinta,Tarde,Sim,0,Compareceu
+AGD-1202,PAC-0101,64,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Particular,0,Terça,Manhã,Sim,1,Compareceu
+AGD-1203,PAC-0249,59,Masculino,Clínica Geral,Restauração em Resina,30,220,Convênio,14,Terça,Tarde,Não,0,Faltou
+AGD-1204,PAC-0461,37,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Particular,7,Quinta,Tarde,Não,0,Compareceu
+AGD-1205,PAC-0136,62,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Particular,2,Segunda,Manhã,Sim,2,Compareceu
+AGD-1206,PAC-0401,58,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,2200,Particular,18,Quarta,Manhã,Sim,0,Compareceu
+AGD-1207,PAC-0158,34,Masculino,Clínica Geral,Avaliação Inicial,30,160,Convênio,6,Segunda,Tarde,Sim,2,Faltou
+AGD-1208,PAC-0236,17,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,1,Sábado,Manhã,Sim,0,Compareceu
+AGD-1209,PAC-0505,26,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Convênio,6,Terça,Manhã,Sim,0,Compareceu
+AGD-1210,PAC-0324,33,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Particular,4,Quinta,Tarde,Sim,0,Compareceu
+AGD-1211,PAC-0458,11,Masculino,Odontopediatria,Restauração Decíduo,45,250,Convênio,6,Quarta,Tarde,Sim,0,Compareceu
+AGD-1212,PAC-0352,28,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Particular,1,Terça,Tarde,Sim,1,Compareceu
+AGD-1213,PAC-0321,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,0,Sábado,Tarde,Não,0,Compareceu
+AGD-1214,PAC-0217,26,Feminino,Clínica Geral,Avaliação Inicial,60,100,Particular,11,Quinta,Tarde,Sim,3,Compareceu
+AGD-1215,PAC-0491,43,Masculino,Clínica Geral,Avaliação Inicial,45,100,Convênio,6,Sexta,Manhã,Sim,0,Compareceu
+AGD-1216,PAC-0490,57,Masculino,Clínica Geral,Restauração em Resina,45,280,Convênio,1,Sexta,Manhã,Sim,0,Compareceu
+AGD-1217,PAC-0242,35,Masculino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,5,Segunda,Noite,Sim,3,Compareceu
+AGD-1218,PAC-0425,21,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Particular,1,Segunda,Noite,Sim,0,Compareceu
+AGD-1219,PAC-0278,26,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,1500,Convênio,3,Sexta,Tarde,Sim,0,Compareceu
+AGD-1220,PAC-0443,46,Feminino,Clínica Geral,Restauração em Resina,30,220,Particular,9,Sexta,Manhã,Sim,1,Compareceu
+AGD-1221,PAC-0310,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,7,Quarta,Tarde,Não,0,Faltou
+AGD-1222,PAC-0489,25,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Particular,1,Terça,Tarde,Sim,1,Compareceu
+AGD-1223,PAC-0261,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-1224,PAC-0306,42,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Convênio,2,Quinta,Tarde,Sim,2,Compareceu
+AGD-1225,PAC-0127,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,3,Quarta,Noite,Sim,3,Compareceu
+AGD-1226,PAC-0326,29,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,2,Sexta,Manhã,Sim,2,Compareceu
+AGD-1227,PAC-0167,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,2,Quinta,Manhã,Sim,1,Compareceu
+AGD-1228,PAC-0114,34,Feminino,Endodontia,Retratamento Endodôntico,120,850,Convênio,2,Quarta,Manhã,Sim,0,Faltou
+AGD-1229,PAC-0463,3,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,250,Convênio,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-1230,PAC-0382,38,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,0,Sábado,Noite,Sim,1,Faltou
+AGD-1231,PAC-0158,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,6,Quinta,Tarde,Sim,0,Compareceu
+AGD-1232,PAC-0466,33,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Particular,7,Quinta,Noite,Sim,0,Compareceu
+AGD-1233,PAC-0312,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,8,Segunda,Manhã,Sim,2,Compareceu
+AGD-1234,PAC-0382,29,Feminino,Clínica Geral,Restauração em Resina,45,160,Particular,1,Terça,Tarde,Não,0,Faltou
+AGD-1235,PAC-0406,40,Feminino,Clínica Geral,Avaliação Inicial,60,160,Particular,5,Quinta,Manhã,Sim,0,Compareceu
+AGD-1236,PAC-0542,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,5,Terça,Tarde,Não,0,Faltou
+AGD-1237,PAC-0503,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,16,Segunda,Manhã,Não,0,Compareceu
+AGD-1238,PAC-0252,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,19,Quarta,Tarde,Não,1,Faltou
+AGD-1239,PAC-0347,11,Masculino,Odontopediatria,Restauração Decíduo,45,250,Convênio,0,Sexta,Manhã,Sim,0,Compareceu
+AGD-1240,PAC-0293,34,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,850,Particular,11,Terça,Manhã,Sim,0,Compareceu
+AGD-1241,PAC-0457,25,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Convênio,0,Quinta,Manhã,Não,0,Compareceu
+AGD-1242,PAC-0538,10,Masculino,Odontopediatria,Restauração Decíduo,30,190,Particular,6,Segunda,Noite,Sim,0,Compareceu
+AGD-1243,PAC-0461,75,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Particular,10,Segunda,Tarde,Não,0,Compareceu
+AGD-1244,PAC-0353,31,Masculino,Clínica Geral,Restauração em Resina,30,220,Convênio,4,Terça,Manhã,Sim,1,Compareceu
+AGD-1245,PAC-0545,11,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,140,Particular,7,Terça,Tarde,Sim,1,Compareceu
+AGD-1246,PAC-0333,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,1,Segunda,Noite,Sim,0,Compareceu
+AGD-1247,PAC-0179,35,Feminino,Clínica Geral,Restauração em Resina,45,220,Particular,1,Quinta,Tarde,Sim,3,Compareceu
+AGD-1248,PAC-0273,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,3,Segunda,Tarde,Sim,0,Compareceu
+AGD-1249,PAC-0539,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,18,Quinta,Tarde,Não,0,Faltou
+AGD-1250,PAC-0118,7,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,25,Sexta,Noite,Sim,0,Compareceu
+AGD-1251,PAC-0216,28,Feminino,Endodontia,Retratamento Endodôntico,60,1400,Convênio,14,Quarta,Tarde,Sim,0,Compareceu
+AGD-1252,PAC-0150,34,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,6,Terça,Manhã,Sim,0,Faltou
+AGD-1253,PAC-0253,35,Feminino,Clínica Geral,Restauração em Resina,30,220,Convênio,6,Sábado,Noite,Sim,0,Compareceu
+AGD-1254,PAC-0507,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,19,Quarta,Manhã,Sim,1,Compareceu
+AGD-1255,PAC-0320,30,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,16,Segunda,Tarde,Sim,2,Compareceu
+AGD-1256,PAC-0449,70,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,2,Sexta,Tarde,Sim,0,Compareceu
+AGD-1257,PAC-0140,75,Masculino,Clínica Geral,Avaliação Inicial,45,160,Convênio,11,Sábado,Tarde,Não,0,Faltou
+AGD-1258,PAC-0354,32,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,0,Quarta,Tarde,Sim,2,Compareceu
+AGD-1259,PAC-0230,34,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Convênio,10,Segunda,Tarde,Sim,1,Compareceu
+AGD-1260,PAC-0511,29,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,9,Sábado,Manhã,Sim,1,Faltou
+AGD-1261,PAC-0137,50,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,1500,Convênio,11,Quinta,Manhã,Não,0,Compareceu
+AGD-1262,PAC-0427,37,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Particular,3,Quarta,Tarde,Sim,0,Compareceu
+AGD-1263,PAC-0333,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,5,Quarta,Manhã,Sim,1,Faltou
+AGD-1264,PAC-0154,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,13,Terça,Manhã,Sim,2,Compareceu
+AGD-1265,PAC-0251,25,Feminino,Clínica Geral,Avaliação Inicial,45,100,Convênio,7,Terça,Tarde,Sim,0,Faltou
+AGD-1266,PAC-0524,3,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,190,Convênio,0,Quarta,Tarde,Sim,1,Compareceu
+AGD-1267,PAC-0389,10,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Particular,11,Quarta,Tarde,Sim,0,Compareceu
+AGD-1268,PAC-0526,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-1269,PAC-0425,25,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,1500,Convênio,3,Terça,Manhã,Não,1,Faltou
+AGD-1270,PAC-0447,4,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Convênio,5,Sábado,Manhã,Sim,0,Compareceu
+AGD-1271,PAC-0421,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,11,Quinta,Tarde,Sim,2,Faltou
+AGD-1272,PAC-0396,21,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,25,Quinta,Manhã,Sim,0,Compareceu
+AGD-1273,PAC-0267,16,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,4,Terça,Manhã,Sim,1,Faltou
+AGD-1274,PAC-0502,53,Feminino,Endodontia,Retratamento Endodôntico,90,1100,Convênio,7,Sexta,Manhã,Sim,0,Compareceu
+AGD-1275,PAC-0525,53,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,2200,Convênio,2,Quinta,Manhã,Sim,0,Compareceu
+AGD-1276,PAC-0512,18,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Particular,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-1277,PAC-0511,48,Masculino,Clínica Geral,Restauração em Resina,45,100,Convênio,5,Segunda,Tarde,Sim,0,Compareceu
+AGD-1278,PAC-0172,18,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,2200,Particular,11,Sábado,Manhã,Sim,1,Compareceu
+AGD-1279,PAC-0533,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,3,Sexta,Tarde,Sim,0,Compareceu
+AGD-1280,PAC-0235,40,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Particular,0,Quarta,Manhã,Sim,0,Compareceu
+AGD-1281,PAC-0444,41,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,1500,Convênio,12,Segunda,Noite,Sim,3,Compareceu
+AGD-1282,PAC-0399,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,7,Terça,Manhã,Sim,1,Compareceu
+AGD-1283,PAC-0219,19,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,1500,Convênio,2,Terça,Manhã,Não,0,Compareceu
+AGD-1284,PAC-0412,34,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,1,Segunda,Tarde,Sim,2,Compareceu
+AGD-1285,PAC-0254,60,Masculino,Clínica Geral,Avaliação Inicial,45,100,Convênio,4,Segunda,Manhã,Sim,0,Faltou
+AGD-1286,PAC-0171,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,31,Terça,Manhã,Não,1,Faltou
+AGD-1287,PAC-0159,38,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,7,Quarta,Tarde,Sim,3,Compareceu
+AGD-1288,PAC-0169,11,Masculino,Odontopediatria,Restauração Decíduo,45,190,Convênio,11,Sábado,Tarde,Sim,0,Compareceu
+AGD-1289,PAC-0314,38,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,11,Quinta,Manhã,Sim,0,Faltou
+AGD-1290,PAC-0350,42,Masculino,Clínica Geral,Avaliação Inicial,45,220,Particular,3,Terça,Tarde,Sim,1,Faltou
+AGD-1291,PAC-0116,37,Masculino,Clínica Geral,Avaliação Inicial,45,160,Particular,20,Segunda,Manhã,Sim,3,Compareceu
+AGD-1292,PAC-0327,31,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Convênio,6,Quinta,Noite,Não,0,Faltou
+AGD-1293,PAC-0150,57,Feminino,Endodontia,Retratamento Endodôntico,90,1100,Particular,5,Terça,Noite,Sim,0,Compareceu
+AGD-1294,PAC-0131,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,4,Terça,Noite,Sim,0,Compareceu
+AGD-1295,PAC-0534,20,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Convênio,4,Sexta,Noite,Sim,1,Compareceu
+AGD-1296,PAC-0428,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,1,Terça,Manhã,Sim,0,Compareceu
+AGD-1297,PAC-0164,55,Masculino,Clínica Geral,Avaliação Inicial,30,100,Convênio,8,Terça,Tarde,Não,0,Faltou
+AGD-1298,PAC-0524,32,Feminino,Clínica Geral,Avaliação Inicial,30,160,Convênio,0,Segunda,Manhã,Sim,0,Faltou
+AGD-1299,PAC-0516,27,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Convênio,27,Terça,Manhã,Não,0,Compareceu
+AGD-1300,PAC-0503,5,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,190,Convênio,13,Terça,Manhã,Sim,0,Compareceu
+AGD-1301,PAC-0166,23,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,90,900,Convênio,8,Quinta,Manhã,Sim,0,Compareceu
+AGD-1302,PAC-0156,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Quinta,Noite,Sim,0,Compareceu
+AGD-1303,PAC-0504,38,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,1500,Convênio,9,Terça,Noite,Sim,1,Compareceu
+AGD-1304,PAC-0108,24,Masculino,Endodontia,Tratamento de Canal (Molar),90,650,Convênio,1,Sexta,Manhã,Sim,0,Compareceu
+AGD-1305,PAC-0164,4,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Convênio,5,Quinta,Tarde,Sim,0,Compareceu
+AGD-1306,PAC-0481,33,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,2200,Convênio,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1307,PAC-0498,36,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Convênio,15,Segunda,Tarde,Não,0,Compareceu
+AGD-1308,PAC-0331,31,Feminino,Clínica Geral,Avaliação Inicial,30,100,Convênio,2,Sexta,Tarde,Sim,0,Compareceu
+AGD-1309,PAC-0472,3,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,190,Particular,2,Quinta,Manhã,Sim,0,Compareceu
+AGD-1310,PAC-0131,25,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Convênio,2,Quarta,Manhã,Sim,0,Compareceu
+AGD-1311,PAC-0451,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,8,Sábado,Tarde,Sim,0,Compareceu
+AGD-1312,PAC-0141,16,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1313,PAC-0240,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,3,Quinta,Tarde,Sim,0,Compareceu
+AGD-1314,PAC-0358,25,Masculino,Clínica Geral,Avaliação Inicial,45,100,Particular,0,Sábado,Tarde,Sim,2,Faltou
+AGD-1315,PAC-0506,23,Masculino,Endodontia,Retratamento Endodôntico,60,850,Particular,26,Quinta,Manhã,Não,0,Compareceu
+AGD-1316,PAC-0320,22,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Particular,1,Sexta,Noite,Sim,2,Compareceu
+AGD-1317,PAC-0273,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1318,PAC-0148,25,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Convênio,30,Sexta,Manhã,Sim,0,Compareceu
+AGD-1319,PAC-0440,33,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,4,Sexta,Tarde,Sim,1,Compareceu
+AGD-1320,PAC-0342,19,Masculino,Endodontia,Tratamento de Canal (Molar),60,650,Convênio,10,Segunda,Manhã,Sim,0,Compareceu
+AGD-1321,PAC-0147,37,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,7,Segunda,Tarde,Sim,0,Compareceu
+AGD-1322,PAC-0166,11,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Particular,1,Sexta,Noite,Sim,0,Compareceu
+AGD-1323,PAC-0387,47,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,100,Convênio,6,Terça,Noite,Sim,0,Compareceu
+AGD-1324,PAC-0310,34,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1400,Particular,4,Terça,Tarde,Não,0,Faltou
+AGD-1325,PAC-0544,12,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,190,Particular,5,Quarta,Manhã,Sim,0,Compareceu
+AGD-1326,PAC-0259,16,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1327,PAC-0436,58,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,650,Particular,2,Sexta,Tarde,Sim,0,Compareceu
+AGD-1328,PAC-0279,19,Masculino,Clínica Geral,Avaliação Inicial,45,100,Convênio,24,Sexta,Manhã,Sim,0,Compareceu
+AGD-1329,PAC-0490,19,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,380,Convênio,5,Segunda,Manhã,Sim,0,Compareceu
+AGD-1330,PAC-0532,7,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Convênio,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-1331,PAC-0114,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,10,Segunda,Manhã,Sim,0,Faltou
+AGD-1332,PAC-0279,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,0,Sexta,Manhã,Sim,0,Compareceu
+AGD-1333,PAC-0436,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,25,Quarta,Manhã,Não,0,Faltou
+AGD-1334,PAC-0424,64,Masculino,Clínica Geral,Restauração em Resina,30,160,Particular,16,Segunda,Tarde,Sim,0,Compareceu
+AGD-1335,PAC-0292,43,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Convênio,1,Terça,Manhã,Não,0,Faltou
+AGD-1336,PAC-0180,33,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Convênio,7,Segunda,Tarde,Sim,1,Faltou
+AGD-1337,PAC-0497,37,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,450,Convênio,5,Sexta,Tarde,Sim,0,Compareceu
+AGD-1338,PAC-0126,33,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,3,Sexta,Tarde,Não,1,Faltou
+AGD-1339,PAC-0141,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,0,Quarta,Tarde,Sim,0,Compareceu
+AGD-1340,PAC-0410,18,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,1500,Particular,3,Terça,Manhã,Sim,0,Compareceu
+AGD-1341,PAC-0210,46,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,1500,Particular,0,Terça,Tarde,Sim,1,Compareceu
+AGD-1342,PAC-0320,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,12,Quinta,Tarde,Sim,0,Compareceu
+AGD-1343,PAC-0441,27,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,850,Convênio,11,Sexta,Tarde,Sim,0,Compareceu
+AGD-1344,PAC-0302,45,Masculino,Endodontia,Retratamento Endodôntico,60,650,Convênio,2,Segunda,Tarde,Sim,0,Compareceu
+AGD-1345,PAC-0204,36,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,0,Sexta,Tarde,Sim,1,Compareceu
+AGD-1346,PAC-0230,28,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Convênio,3,Terça,Noite,Sim,0,Compareceu
+AGD-1347,PAC-0103,16,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,12,Terça,Tarde,Sim,1,Faltou
+AGD-1348,PAC-0294,49,Feminino,Endodontia,Retratamento Endodôntico,120,850,Particular,0,Quarta,Manhã,Sim,1,Compareceu
+AGD-1349,PAC-0356,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,3,Terça,Noite,Não,2,Compareceu
+AGD-1350,PAC-0121,4,Feminino,Odontopediatria,Restauração Decíduo,30,190,Particular,45,Quarta,Manhã,Não,0,Compareceu
+AGD-1351,PAC-0541,9,Masculino,Odontopediatria,Restauração Decíduo,45,250,Particular,1,Terça,Manhã,Sim,0,Compareceu
+AGD-1352,PAC-0463,53,Feminino,Endodontia,Retratamento Endodôntico,90,1100,Convênio,11,Segunda,Tarde,Não,0,Compareceu
+AGD-1353,PAC-0158,19,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Convênio,37,Sexta,Tarde,Sim,1,Compareceu
+AGD-1354,PAC-0187,44,Masculino,Clínica Geral,Avaliação Inicial,45,220,Particular,1,Sábado,Manhã,Não,3,Faltou
+AGD-1355,PAC-0145,18,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,8,Quinta,Manhã,Sim,0,Compareceu
+AGD-1356,PAC-0323,21,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-1357,PAC-0481,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1358,PAC-0186,43,Masculino,Endodontia,Tratamento de Canal (Molar),120,650,Particular,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1359,PAC-0371,44,Masculino,Endodontia,Retratamento Endodôntico,60,1100,Particular,4,Terça,Manhã,Sim,0,Compareceu
+AGD-1360,PAC-0279,4,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Convênio,1,Terça,Noite,Sim,1,Compareceu
+AGD-1361,PAC-0174,42,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,250,Particular,0,Sexta,Manhã,Sim,3,Compareceu
+AGD-1362,PAC-0408,39,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,2,Quarta,Manhã,Sim,0,Compareceu
+AGD-1363,PAC-0495,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,4,Sábado,Tarde,Sim,0,Compareceu
+AGD-1364,PAC-0389,31,Feminino,Clínica Geral,Avaliação Inicial,60,220,Particular,1,Terça,Tarde,Sim,1,Compareceu
+AGD-1365,PAC-0542,10,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,140,Particular,6,Segunda,Tarde,Sim,1,Compareceu
+AGD-1366,PAC-0134,33,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Particular,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1367,PAC-0507,28,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,8,Quarta,Tarde,Não,1,Faltou
+AGD-1368,PAC-0137,34,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Particular,5,Quarta,Tarde,Sim,1,Compareceu
+AGD-1369,PAC-0119,49,Feminino,Clínica Geral,Restauração em Resina,45,220,Particular,1,Quarta,Tarde,Sim,2,Compareceu
+AGD-1370,PAC-0139,69,Feminino,Endodontia,Retratamento Endodôntico,60,1400,Convênio,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-1371,PAC-0336,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,28,Sexta,Manhã,Sim,0,Compareceu
+AGD-1372,PAC-0409,35,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,900,Convênio,12,Segunda,Tarde,Sim,0,Compareceu
+AGD-1373,PAC-0131,34,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,16,Terça,Manhã,Não,1,Compareceu
+AGD-1374,PAC-0143,34,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,20,Terça,Manhã,Sim,0,Compareceu
+AGD-1375,PAC-0324,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1376,PAC-0244,30,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Particular,3,Segunda,Manhã,Sim,0,Compareceu
+AGD-1377,PAC-0447,57,Feminino,Clínica Geral,Avaliação Inicial,30,220,Convênio,4,Segunda,Manhã,Sim,1,Faltou
+AGD-1378,PAC-0133,30,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Particular,12,Terça,Manhã,Não,0,Faltou
+AGD-1379,PAC-0245,42,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,900,Convênio,3,Quinta,Tarde,Sim,0,Compareceu
+AGD-1380,PAC-0270,27,Feminino,Clínica Geral,Restauração em Resina,60,160,Convênio,21,Segunda,Noite,Não,0,Faltou
+AGD-1381,PAC-0279,48,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Convênio,2,Sábado,Noite,Não,0,Faltou
+AGD-1382,PAC-0166,50,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,120,450,Particular,4,Terça,Manhã,Sim,0,Compareceu
+AGD-1383,PAC-0258,58,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Particular,0,Terça,Noite,Sim,0,Compareceu
+AGD-1384,PAC-0443,39,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Convênio,11,Quarta,Tarde,Não,0,Compareceu
+AGD-1385,PAC-0285,18,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Convênio,4,Segunda,Manhã,Não,0,Compareceu
+AGD-1386,PAC-0192,6,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,1,Quinta,Manhã,Sim,0,Compareceu
+AGD-1387,PAC-0215,21,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Quarta,Manhã,Sim,0,Compareceu
+AGD-1388,PAC-0532,36,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,8,Sexta,Manhã,Não,2,Faltou
+AGD-1389,PAC-0416,34,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-1390,PAC-0178,50,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Convênio,0,Segunda,Tarde,Sim,0,Faltou
+AGD-1391,PAC-0494,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,32,Terça,Noite,Não,0,Faltou
+AGD-1392,PAC-0286,32,Feminino,Clínica Geral,Avaliação Inicial,60,160,Convênio,3,Quinta,Manhã,Sim,1,Compareceu
+AGD-1393,PAC-0327,64,Feminino,Clínica Geral,Avaliação Inicial,45,280,Particular,0,Sexta,Manhã,Sim,0,Compareceu
+AGD-1394,PAC-0219,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,4,Sexta,Tarde,Não,0,Faltou
+AGD-1395,PAC-0199,42,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Particular,8,Quarta,Tarde,Sim,3,Compareceu
+AGD-1396,PAC-0493,17,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,8,Segunda,Tarde,Sim,0,Compareceu
+AGD-1397,PAC-0518,65,Masculino,Clínica Geral,Restauração em Resina,60,160,Particular,2,Sexta,Tarde,Sim,0,Compareceu
+AGD-1398,PAC-0546,30,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Convênio,0,Terça,Manhã,Sim,0,Compareceu
+AGD-1399,PAC-0547,40,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Convênio,1,Quarta,Tarde,Não,2,Compareceu
+AGD-1400,PAC-0464,20,Masculino,Endodontia,Retratamento Endodôntico,60,1100,Particular,10,Quarta,Tarde,Sim,1,Compareceu
+AGD-1401,PAC-0142,61,Masculino,Endodontia,Tratamento de Canal (Molar),90,1400,Convênio,2,Quarta,Manhã,Sim,1,Compareceu
+AGD-1402,PAC-0362,18,Feminino,Clínica Geral,Restauração em Resina,45,100,Convênio,26,Terça,Manhã,Não,0,Faltou
+AGD-1403,PAC-0213,48,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Convênio,2,Sábado,Tarde,Sim,3,Compareceu
+AGD-1404,PAC-0312,27,Masculino,Endodontia,Tratamento de Canal (Molar),90,1100,Particular,2,Terça,Tarde,Sim,0,Compareceu
+AGD-1405,PAC-0220,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,3,Quinta,Noite,Sim,0,Compareceu
+AGD-1406,PAC-0114,43,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Convênio,29,Terça,Manhã,Sim,0,Compareceu
+AGD-1407,PAC-0505,29,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,7,Quarta,Manhã,Não,0,Faltou
+AGD-1408,PAC-0246,26,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,2,Quarta,Noite,Sim,1,Compareceu
+AGD-1409,PAC-0415,36,Feminino,Clínica Geral,Restauração em Resina,30,100,Convênio,13,Segunda,Tarde,Sim,0,Compareceu
+AGD-1410,PAC-0231,36,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,11,Sexta,Manhã,Sim,0,Compareceu
+AGD-1411,PAC-0472,25,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,13,Quarta,Manhã,Sim,1,Faltou
+AGD-1412,PAC-0156,15,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Quarta,Tarde,Sim,0,Compareceu
+AGD-1413,PAC-0124,45,Masculino,Endodontia,Tratamento de Canal (Molar),90,1400,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1414,PAC-0132,11,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,250,Particular,8,Segunda,Tarde,Sim,0,Compareceu
+AGD-1415,PAC-0108,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,6,Sábado,Tarde,Sim,1,Compareceu
+AGD-1416,PAC-0100,33,Feminino,Endodontia,Retratamento Endodôntico,90,850,Convênio,15,Quarta,Manhã,Não,0,Compareceu
+AGD-1417,PAC-0392,4,Feminino,Odontopediatria,Restauração Decíduo,30,250,Convênio,0,Sexta,Manhã,Não,2,Faltou
+AGD-1418,PAC-0368,24,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Terça,Noite,Sim,3,Compareceu
+AGD-1419,PAC-0547,50,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Particular,2,Quinta,Tarde,Sim,1,Compareceu
+AGD-1420,PAC-0291,37,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,1,Quinta,Manhã,Sim,0,Compareceu
+AGD-1421,PAC-0134,61,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Particular,5,Quarta,Noite,Sim,0,Compareceu
+AGD-1422,PAC-0495,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Quarta,Tarde,Não,0,Faltou
+AGD-1423,PAC-0379,10,Feminino,Odontopediatria,Restauração Decíduo,30,250,Particular,0,Quarta,Tarde,Sim,0,Compareceu
+AGD-1424,PAC-0456,44,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Convênio,12,Quarta,Tarde,Sim,0,Compareceu
+AGD-1425,PAC-0515,27,Feminino,Clínica Geral,Restauração em Resina,30,280,Convênio,8,Terça,Manhã,Sim,0,Compareceu
+AGD-1426,PAC-0118,47,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Convênio,20,Segunda,Manhã,Sim,0,Compareceu
+AGD-1427,PAC-0505,65,Masculino,Implantodontia / Cirurgia,Instalação de Implante,60,1500,Convênio,3,Segunda,Manhã,Sim,0,Compareceu
+AGD-1428,PAC-0258,10,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Particular,6,Quarta,Tarde,Sim,0,Compareceu
+AGD-1429,PAC-0229,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,34,Terça,Manhã,Sim,0,Compareceu
+AGD-1430,PAC-0541,55,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Convênio,9,Terça,Tarde,Sim,0,Compareceu
+AGD-1431,PAC-0163,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,16,Quinta,Tarde,Não,0,Compareceu
+AGD-1432,PAC-0325,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,15,Terça,Tarde,Sim,0,Compareceu
+AGD-1433,PAC-0454,37,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1434,PAC-0142,31,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,9,Sexta,Manhã,Sim,0,Compareceu
+AGD-1435,PAC-0521,4,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,8,Quinta,Tarde,Sim,0,Compareceu
+AGD-1436,PAC-0140,42,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Particular,0,Sexta,Manhã,Sim,1,Compareceu
+AGD-1437,PAC-0256,57,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1400,Particular,1,Quarta,Noite,Não,0,Compareceu
+AGD-1438,PAC-0185,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,45,Quarta,Manhã,Sim,0,Compareceu
+AGD-1439,PAC-0472,32,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,4,Quarta,Manhã,Sim,0,Compareceu
+AGD-1440,PAC-0505,29,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,7,Sábado,Manhã,Sim,0,Compareceu
+AGD-1441,PAC-0426,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-1442,PAC-0173,53,Feminino,Endodontia,Retratamento Endodôntico,120,1400,Convênio,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1443,PAC-0117,30,Masculino,Clínica Geral,Restauração em Resina,30,160,Convênio,7,Segunda,Noite,Sim,1,Compareceu
+AGD-1444,PAC-0498,44,Feminino,Endodontia,Retratamento Endodôntico,90,1100,Convênio,28,Sábado,Manhã,Não,0,Faltou
+AGD-1445,PAC-0296,45,Feminino,Clínica Geral,Avaliação Inicial,30,160,Convênio,5,Quinta,Noite,Não,1,Faltou
+AGD-1446,PAC-0447,28,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Particular,7,Quinta,Manhã,Sim,2,Faltou
+AGD-1447,PAC-0327,32,Feminino,Clínica Geral,Restauração em Resina,60,160,Convênio,3,Sexta,Tarde,Sim,1,Compareceu
+AGD-1448,PAC-0371,44,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Convênio,1,Sábado,Tarde,Sim,0,Compareceu
+AGD-1449,PAC-0432,12,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,8,Quinta,Tarde,Sim,0,Compareceu
+AGD-1450,PAC-0476,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,5,Quarta,Manhã,Sim,0,Compareceu
+AGD-1451,PAC-0160,18,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,6,Segunda,Manhã,Sim,1,Compareceu
+AGD-1452,PAC-0413,15,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,8,Segunda,Manhã,Não,0,Compareceu
+AGD-1453,PAC-0169,56,Feminino,Clínica Geral,Restauração em Resina,45,160,Particular,5,Segunda,Manhã,Sim,0,Compareceu
+AGD-1454,PAC-0465,51,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Convênio,4,Segunda,Tarde,Sim,0,Faltou
+AGD-1455,PAC-0441,18,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,100,Convênio,10,Segunda,Noite,Sim,0,Compareceu
+AGD-1456,PAC-0381,34,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,5,Sexta,Tarde,Sim,2,Compareceu
+AGD-1457,PAC-0463,45,Masculino,Clínica Geral,Avaliação Inicial,60,160,Particular,30,Terça,Manhã,Não,0,Faltou
+AGD-1458,PAC-0506,33,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,900,Convênio,16,Quarta,Tarde,Não,0,Faltou
+AGD-1459,PAC-0162,18,Feminino,Clínica Geral,Restauração em Resina,30,160,Convênio,4,Sábado,Manhã,Sim,0,Compareceu
+AGD-1460,PAC-0504,11,Masculino,Odontopediatria,Restauração Decíduo,30,190,Particular,8,Sábado,Manhã,Sim,0,Compareceu
+AGD-1461,PAC-0393,53,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,850,Convênio,6,Segunda,Tarde,Sim,0,Faltou
+AGD-1462,PAC-0413,42,Feminino,Clínica Geral,Restauração em Resina,30,220,Convênio,10,Quinta,Tarde,Sim,0,Faltou
+AGD-1463,PAC-0303,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1464,PAC-0394,32,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Sábado,Manhã,Sim,0,Compareceu
+AGD-1465,PAC-0137,58,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Convênio,6,Terça,Manhã,Sim,2,Compareceu
+AGD-1466,PAC-0165,42,Feminino,Clínica Geral,Avaliação Inicial,60,160,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1467,PAC-0493,40,Masculino,Clínica Geral,Restauração em Resina,45,100,Particular,5,Segunda,Manhã,Sim,0,Compareceu
+AGD-1468,PAC-0525,52,Masculino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Convênio,4,Segunda,Manhã,Sim,0,Compareceu
+AGD-1469,PAC-0255,46,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,380,Convênio,0,Quinta,Manhã,Não,0,Faltou
+AGD-1470,PAC-0463,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,2,Sexta,Tarde,Sim,1,Compareceu
+AGD-1471,PAC-0228,45,Feminino,Clínica Geral,Restauração em Resina,60,220,Convênio,26,Sexta,Tarde,Sim,0,Compareceu
+AGD-1472,PAC-0164,40,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,90,450,Particular,4,Terça,Tarde,Sim,0,Compareceu
+AGD-1473,PAC-0357,26,Masculino,Clínica Geral,Avaliação Inicial,30,160,Convênio,18,Sexta,Manhã,Sim,1,Compareceu
+AGD-1474,PAC-0187,29,Feminino,Clínica Geral,Avaliação Inicial,60,220,Particular,2,Segunda,Tarde,Sim,0,Compareceu
+AGD-1475,PAC-0531,30,Masculino,Clínica Geral,Avaliação Inicial,30,100,Particular,5,Sábado,Tarde,Sim,0,Faltou
+AGD-1476,PAC-0141,43,Masculino,Clínica Geral,Restauração em Resina,60,220,Convênio,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-1477,PAC-0433,49,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Convênio,2,Quinta,Tarde,Sim,1,Faltou
+AGD-1478,PAC-0427,32,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Particular,14,Sexta,Manhã,Sim,0,Compareceu
+AGD-1479,PAC-0428,25,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Particular,14,Sexta,Tarde,Sim,0,Compareceu
+AGD-1480,PAC-0512,10,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,190,Convênio,0,Segunda,Tarde,Sim,3,Compareceu
+AGD-1481,PAC-0137,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,3,Sábado,Manhã,Sim,0,Compareceu
+AGD-1482,PAC-0347,70,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,380,Particular,4,Terça,Manhã,Sim,1,Compareceu
+AGD-1483,PAC-0410,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,7,Terça,Manhã,Sim,0,Compareceu
+AGD-1484,PAC-0540,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,2,Quinta,Tarde,Sim,1,Compareceu
+AGD-1485,PAC-0289,37,Masculino,Endodontia,Retratamento Endodôntico,120,650,Particular,4,Terça,Manhã,Sim,0,Compareceu
+AGD-1486,PAC-0263,7,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,140,Particular,10,Segunda,Manhã,Sim,2,Faltou
+AGD-1487,PAC-0330,38,Feminino,Clínica Geral,Restauração em Resina,30,100,Convênio,0,Terça,Tarde,Não,0,Faltou
+AGD-1488,PAC-0125,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,3,Segunda,Manhã,Sim,0,Compareceu
+AGD-1489,PAC-0543,8,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,250,Particular,35,Segunda,Tarde,Não,0,Compareceu
+AGD-1490,PAC-0197,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,9,Sábado,Noite,Sim,0,Compareceu
+AGD-1491,PAC-0550,14,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Terça,Tarde,Sim,0,Compareceu
+AGD-1492,PAC-0301,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,16,Terça,Tarde,Sim,2,Compareceu
+AGD-1493,PAC-0280,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,3,Segunda,Manhã,Sim,0,Compareceu
+AGD-1494,PAC-0405,40,Feminino,Endodontia,Retratamento Endodôntico,120,1400,Convênio,1,Sábado,Manhã,Sim,1,Compareceu
+AGD-1495,PAC-0246,56,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,60,450,Convênio,1,Sexta,Tarde,Sim,0,Compareceu
+AGD-1496,PAC-0320,20,Masculino,Clínica Geral,Restauração em Resina,45,220,Particular,12,Segunda,Manhã,Sim,1,Compareceu
+AGD-1497,PAC-0491,40,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Particular,2,Terça,Tarde,Não,2,Faltou
+AGD-1498,PAC-0305,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,11,Quarta,Noite,Não,0,Faltou
+AGD-1499,PAC-0247,54,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,2200,Convênio,17,Segunda,Noite,Não,0,Faltou
+AGD-1500,PAC-0491,18,Feminino,Clínica Geral,Avaliação Inicial,45,100,Particular,7,Quinta,Manhã,Sim,1,Faltou
+AGD-1501,PAC-0165,37,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,9,Terça,Tarde,Não,0,Faltou
+AGD-1502,PAC-0273,30,Feminino,Clínica Geral,Avaliação Inicial,45,160,Convênio,0,Sexta,Manhã,Sim,1,Faltou
+AGD-1503,PAC-0201,44,Feminino,Endodontia,Retratamento Endodôntico,120,1400,Particular,2,Quarta,Manhã,Não,0,Faltou
+AGD-1504,PAC-0356,32,Masculino,Clínica Geral,Restauração em Resina,30,100,Particular,10,Segunda,Noite,Não,0,Compareceu
+AGD-1505,PAC-0170,27,Feminino,Clínica Geral,Avaliação Inicial,45,280,Particular,3,Segunda,Noite,Sim,1,Compareceu
+AGD-1506,PAC-0365,51,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,10,Terça,Tarde,Sim,2,Compareceu
+AGD-1507,PAC-0267,41,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,380,Convênio,6,Quarta,Manhã,Não,1,Faltou
+AGD-1508,PAC-0415,32,Masculino,Clínica Geral,Avaliação Inicial,45,220,Convênio,13,Sábado,Tarde,Sim,1,Faltou
+AGD-1509,PAC-0359,52,Masculino,Clínica Geral,Avaliação Inicial,60,280,Particular,8,Quarta,Tarde,Sim,0,Compareceu
+AGD-1510,PAC-0462,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,27,Quinta,Tarde,Não,1,Faltou
+AGD-1511,PAC-0269,38,Masculino,Clínica Geral,Avaliação Inicial,30,280,Particular,1,Terça,Tarde,Sim,0,Compareceu
+AGD-1512,PAC-0398,20,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,10,Sexta,Tarde,Sim,0,Compareceu
+AGD-1513,PAC-0435,51,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,18,Terça,Tarde,Sim,0,Compareceu
+AGD-1514,PAC-0345,29,Masculino,Endodontia,Tratamento de Canal (Molar),120,1400,Particular,11,Terça,Noite,Sim,1,Compareceu
+AGD-1515,PAC-0175,18,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1516,PAC-0109,5,Masculino,Odontopediatria,Restauração Decíduo,45,190,Convênio,21,Quarta,Noite,Sim,0,Faltou
+AGD-1517,PAC-0311,18,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,2200,Convênio,7,Terça,Tarde,Sim,0,Compareceu
+AGD-1518,PAC-0356,42,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Convênio,7,Quinta,Manhã,Sim,0,Compareceu
+AGD-1519,PAC-0170,40,Feminino,Clínica Geral,Avaliação Inicial,30,220,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1520,PAC-0439,17,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,5,Terça,Noite,Sim,0,Faltou
+AGD-1521,PAC-0335,46,Feminino,Clínica Geral,Avaliação Inicial,45,220,Particular,0,Quarta,Tarde,Sim,3,Compareceu
+AGD-1522,PAC-0446,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,14,Quarta,Manhã,Sim,0,Compareceu
+AGD-1523,PAC-0242,34,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,90,900,Particular,0,Quarta,Manhã,Sim,1,Compareceu
+AGD-1524,PAC-0252,31,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Convênio,6,Segunda,Tarde,Sim,0,Faltou
+AGD-1525,PAC-0453,47,Feminino,Clínica Geral,Avaliação Inicial,45,220,Convênio,16,Quinta,Noite,Não,0,Faltou
+AGD-1526,PAC-0345,21,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Convênio,0,Terça,Manhã,Não,0,Compareceu
+AGD-1527,PAC-0247,18,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,5,Terça,Noite,Sim,0,Compareceu
+AGD-1528,PAC-0302,27,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Particular,6,Sábado,Tarde,Sim,1,Compareceu
+AGD-1529,PAC-0121,40,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Particular,1,Quinta,Manhã,Sim,2,Compareceu
+AGD-1530,PAC-0277,46,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Particular,3,Terça,Tarde,Sim,0,Compareceu
+AGD-1531,PAC-0482,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,6,Terça,Tarde,Sim,0,Compareceu
+AGD-1532,PAC-0375,28,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,1500,Convênio,3,Segunda,Tarde,Sim,1,Compareceu
+AGD-1533,PAC-0170,40,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Particular,9,Sábado,Manhã,Não,1,Faltou
+AGD-1534,PAC-0224,43,Masculino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Particular,2,Segunda,Manhã,Sim,3,Compareceu
+AGD-1535,PAC-0426,54,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Convênio,1,Sexta,Manhã,Sim,0,Compareceu
+AGD-1536,PAC-0311,31,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1400,Particular,2,Quinta,Manhã,Sim,0,Compareceu
+AGD-1537,PAC-0151,39,Masculino,Clínica Geral,Avaliação Inicial,30,100,Convênio,4,Segunda,Tarde,Sim,1,Compareceu
+AGD-1538,PAC-0381,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,30,Quinta,Manhã,Sim,0,Compareceu
+AGD-1539,PAC-0433,29,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Particular,5,Sexta,Noite,Não,0,Compareceu
+AGD-1540,PAC-0246,29,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,4,Quarta,Manhã,Sim,1,Compareceu
+AGD-1541,PAC-0478,18,Feminino,Endodontia,Retratamento Endodôntico,60,850,Particular,1,Sexta,Manhã,Sim,0,Compareceu
+AGD-1542,PAC-0313,37,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,35,Terça,Noite,Sim,0,Compareceu
+AGD-1543,PAC-0353,39,Masculino,Clínica Geral,Restauração em Resina,60,220,Particular,10,Sábado,Manhã,Sim,0,Faltou
+AGD-1544,PAC-0548,30,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,4,Segunda,Tarde,Sim,0,Faltou
+AGD-1545,PAC-0408,35,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Convênio,17,Quarta,Manhã,Não,0,Compareceu
+AGD-1546,PAC-0332,51,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Convênio,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-1547,PAC-0339,26,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Particular,3,Quarta,Tarde,Sim,0,Compareceu
+AGD-1548,PAC-0269,40,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Particular,13,Quarta,Noite,Sim,2,Faltou
+AGD-1549,PAC-0231,33,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Convênio,43,Quarta,Tarde,Sim,0,Compareceu
+AGD-1550,PAC-0272,38,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Particular,7,Sábado,Noite,Sim,0,Compareceu
+AGD-1551,PAC-0189,56,Feminino,Clínica Geral,Avaliação Inicial,60,280,Particular,12,Quarta,Manhã,Não,0,Compareceu
+AGD-1552,PAC-0523,29,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1553,PAC-0144,39,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,100,Convênio,6,Segunda,Tarde,Sim,1,Faltou
+AGD-1554,PAC-0194,44,Feminino,Clínica Geral,Restauração em Resina,45,220,Convênio,25,Sexta,Manhã,Sim,0,Compareceu
+AGD-1555,PAC-0227,18,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Convênio,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1556,PAC-0220,29,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Particular,29,Terça,Manhã,Sim,0,Compareceu
+AGD-1557,PAC-0254,48,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Convênio,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1558,PAC-0284,4,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,1,Sexta,Tarde,Sim,2,Faltou
+AGD-1559,PAC-0338,22,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Particular,2,Quarta,Manhã,Sim,0,Compareceu
+AGD-1560,PAC-0451,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,12,Quarta,Noite,Sim,0,Compareceu
+AGD-1561,PAC-0414,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,3,Sexta,Noite,Sim,1,Faltou
+AGD-1562,PAC-0178,37,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,1500,Particular,13,Quinta,Tarde,Sim,0,Compareceu
+AGD-1563,PAC-0312,36,Masculino,Endodontia,Retratamento Endodôntico,120,1400,Convênio,19,Terça,Tarde,Não,0,Compareceu
+AGD-1564,PAC-0487,28,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,6,Terça,Tarde,Sim,0,Faltou
+AGD-1565,PAC-0328,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,3,Terça,Manhã,Sim,0,Compareceu
+AGD-1566,PAC-0524,43,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Convênio,0,Sexta,Tarde,Sim,0,Compareceu
+AGD-1567,PAC-0267,48,Feminino,Endodontia,Retratamento Endodôntico,90,650,Convênio,0,Quarta,Manhã,Sim,0,Compareceu
+AGD-1568,PAC-0448,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Sexta,Manhã,Sim,1,Compareceu
+AGD-1569,PAC-0328,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,0,Sexta,Tarde,Sim,0,Compareceu
+AGD-1570,PAC-0312,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,14,Quarta,Noite,Sim,1,Compareceu
+AGD-1571,PAC-0513,20,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,2,Terça,Noite,Sim,2,Compareceu
+AGD-1572,PAC-0518,44,Masculino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Convênio,19,Segunda,Tarde,Sim,0,Compareceu
+AGD-1573,PAC-0396,8,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,190,Particular,5,Quarta,Manhã,Sim,2,Compareceu
+AGD-1574,PAC-0458,53,Feminino,Clínica Geral,Restauração em Resina,60,100,Particular,3,Sábado,Manhã,Sim,1,Compareceu
+AGD-1575,PAC-0135,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,7,Segunda,Tarde,Não,1,Faltou
+AGD-1576,PAC-0192,41,Masculino,Clínica Geral,Restauração em Resina,60,280,Convênio,16,Terça,Tarde,Não,0,Faltou
+AGD-1577,PAC-0291,24,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,14,Sexta,Tarde,Sim,0,Compareceu
+AGD-1578,PAC-0141,17,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Quinta,Manhã,Sim,0,Compareceu
+AGD-1579,PAC-0375,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,3,Quarta,Tarde,Sim,0,Faltou
+AGD-1580,PAC-0101,30,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,2200,Convênio,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-1581,PAC-0444,21,Feminino,Endodontia,Retratamento Endodôntico,120,1400,Convênio,12,Sexta,Tarde,Não,1,Faltou
+AGD-1582,PAC-0372,44,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,25,Terça,Tarde,Não,0,Faltou
+AGD-1583,PAC-0335,30,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,1500,Particular,11,Sexta,Manhã,Não,0,Faltou
+AGD-1584,PAC-0196,28,Feminino,Endodontia,Retratamento Endodôntico,60,650,Convênio,11,Segunda,Tarde,Sim,0,Compareceu
+AGD-1585,PAC-0514,23,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,250,Convênio,2,Quarta,Manhã,Sim,2,Compareceu
+AGD-1586,PAC-0205,3,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,250,Convênio,9,Sábado,Tarde,Sim,0,Compareceu
+AGD-1587,PAC-0328,24,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,1,Segunda,Tarde,Sim,0,Compareceu
+AGD-1588,PAC-0324,16,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,8,Sábado,Tarde,Sim,0,Compareceu
+AGD-1589,PAC-0357,23,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Convênio,6,Segunda,Tarde,Não,1,Faltou
+AGD-1590,PAC-0395,48,Feminino,Endodontia,Retratamento Endodôntico,120,1100,Particular,7,Sexta,Noite,Sim,0,Compareceu
+AGD-1591,PAC-0221,29,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Convênio,10,Sábado,Manhã,Sim,0,Compareceu
+AGD-1592,PAC-0311,11,Masculino,Odontopediatria,Restauração Decíduo,45,140,Convênio,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1593,PAC-0402,9,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Convênio,0,Quinta,Tarde,Não,0,Faltou
+AGD-1594,PAC-0384,49,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,1500,Convênio,1,Sexta,Tarde,Não,3,Faltou
+AGD-1595,PAC-0429,20,Feminino,Clínica Geral,Avaliação Inicial,45,220,Particular,0,Terça,Tarde,Não,0,Compareceu
+AGD-1596,PAC-0456,30,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,21,Segunda,Manhã,Não,0,Faltou
+AGD-1597,PAC-0253,49,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,2200,Convênio,0,Segunda,Manhã,Sim,0,Compareceu
+AGD-1598,PAC-0223,34,Masculino,Clínica Geral,Restauração em Resina,45,160,Particular,7,Quinta,Noite,Sim,0,Compareceu
+AGD-1599,PAC-0512,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,10,Sexta,Manhã,Sim,0,Compareceu
+AGD-1600,PAC-0385,56,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Convênio,1,Sexta,Tarde,Sim,0,Compareceu
+AGD-1601,PAC-0230,34,Feminino,Clínica Geral,Restauração em Resina,45,100,Convênio,2,Quinta,Tarde,Sim,1,Compareceu
+AGD-1602,PAC-0330,13,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,16,Sexta,Tarde,Sim,0,Compareceu
+AGD-1603,PAC-0237,18,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,5,Terça,Noite,Não,0,Compareceu
+AGD-1604,PAC-0511,38,Masculino,Clínica Geral,Avaliação Inicial,60,160,Particular,4,Quinta,Tarde,Não,0,Faltou
+AGD-1605,PAC-0345,69,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Particular,7,Segunda,Manhã,Não,0,Faltou
+AGD-1606,PAC-0107,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,5,Sábado,Tarde,Não,0,Compareceu
+AGD-1607,PAC-0486,45,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Particular,8,Segunda,Noite,Sim,0,Compareceu
+AGD-1608,PAC-0303,50,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Convênio,3,Terça,Manhã,Sim,1,Compareceu
+AGD-1609,PAC-0497,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,16,Quarta,Manhã,Sim,3,Compareceu
+AGD-1610,PAC-0432,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,12,Sexta,Manhã,Sim,0,Compareceu
+AGD-1611,PAC-0362,41,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,100,Particular,23,Quinta,Tarde,Não,0,Faltou
+AGD-1612,PAC-0511,6,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,190,Convênio,12,Segunda,Noite,Não,0,Compareceu
+AGD-1613,PAC-0289,39,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,100,Convênio,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1614,PAC-0388,21,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,4,Sexta,Manhã,Sim,0,Compareceu
+AGD-1615,PAC-0233,36,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,7,Quinta,Manhã,Não,0,Faltou
+AGD-1616,PAC-0251,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,30,Terça,Tarde,Sim,0,Compareceu
+AGD-1617,PAC-0294,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,15,Quarta,Manhã,Sim,1,Faltou
+AGD-1618,PAC-0490,17,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,7,Segunda,Tarde,Não,0,Faltou
+AGD-1619,PAC-0475,60,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,850,Particular,16,Quinta,Noite,Sim,0,Compareceu
+AGD-1620,PAC-0468,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,13,Quinta,Manhã,Sim,2,Compareceu
+AGD-1621,PAC-0117,53,Feminino,Clínica Geral,Restauração em Resina,60,100,Convênio,14,Quarta,Tarde,Sim,0,Compareceu
+AGD-1622,PAC-0491,33,Feminino,Endodontia,Tratamento de Canal (Molar),90,850,Particular,0,Sexta,Tarde,Não,0,Faltou
+AGD-1623,PAC-0531,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,6,Terça,Manhã,Sim,0,Compareceu
+AGD-1624,PAC-0211,18,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Particular,9,Quarta,Tarde,Sim,0,Compareceu
+AGD-1625,PAC-0416,28,Feminino,Clínica Geral,Avaliação Inicial,60,280,Particular,15,Terça,Tarde,Não,0,Faltou
+AGD-1626,PAC-0437,46,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Particular,1,Segunda,Tarde,Não,2,Faltou
+AGD-1627,PAC-0372,34,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,250,Convênio,36,Terça,Tarde,Não,0,Faltou
+AGD-1628,PAC-0371,28,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,5,Sábado,Tarde,Sim,0,Compareceu
+AGD-1629,PAC-0516,41,Feminino,Clínica Geral,Avaliação Inicial,60,280,Particular,21,Segunda,Manhã,Não,0,Faltou
+AGD-1630,PAC-0512,60,Feminino,Clínica Geral,Restauração em Resina,30,100,Particular,5,Sexta,Tarde,Sim,0,Compareceu
+AGD-1631,PAC-0368,29,Feminino,Endodontia,Tratamento de Canal (Molar),60,850,Convênio,10,Terça,Manhã,Não,0,Faltou
+AGD-1632,PAC-0417,38,Feminino,Clínica Geral,Avaliação Inicial,45,220,Particular,4,Terça,Manhã,Sim,3,Faltou
+AGD-1633,PAC-0236,24,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,5,Segunda,Tarde,Sim,0,Compareceu
+AGD-1634,PAC-0335,19,Feminino,Clínica Geral,Avaliação Inicial,30,160,Convênio,12,Sábado,Manhã,Sim,0,Faltou
+AGD-1635,PAC-0253,44,Masculino,Endodontia,Retratamento Endodôntico,60,650,Convênio,1,Sexta,Noite,Sim,0,Compareceu
+AGD-1636,PAC-0147,29,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,0,Quarta,Noite,Sim,2,Compareceu
+AGD-1637,PAC-0343,37,Feminino,Clínica Geral,Restauração em Resina,60,100,Convênio,13,Quarta,Manhã,Sim,0,Compareceu
+AGD-1638,PAC-0459,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Quinta,Manhã,Sim,0,Compareceu
+AGD-1639,PAC-0430,28,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,450,Convênio,1,Quarta,Noite,Sim,0,Compareceu
+AGD-1640,PAC-0370,61,Masculino,Endodontia,Tratamento de Canal (Molar),60,850,Convênio,10,Quinta,Manhã,Sim,0,Compareceu
+AGD-1641,PAC-0544,42,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,8,Quarta,Tarde,Sim,1,Faltou
+AGD-1642,PAC-0238,7,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,250,Particular,31,Sábado,Tarde,Sim,0,Compareceu
+AGD-1643,PAC-0378,68,Masculino,Clínica Geral,Avaliação Inicial,60,100,Convênio,1,Terça,Manhã,Sim,1,Compareceu
+AGD-1644,PAC-0191,54,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,27,Quarta,Noite,Sim,0,Compareceu
+AGD-1645,PAC-0400,49,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Convênio,2,Terça,Manhã,Sim,1,Compareceu
+AGD-1646,PAC-0253,32,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Particular,5,Quarta,Manhã,Sim,1,Compareceu
+AGD-1647,PAC-0390,25,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Convênio,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1648,PAC-0296,24,Feminino,Clínica Geral,Avaliação Inicial,30,100,Particular,5,Terça,Noite,Sim,0,Compareceu
+AGD-1649,PAC-0356,18,Masculino,Clínica Geral,Avaliação Inicial,45,100,Particular,2,Segunda,Manhã,Sim,0,Compareceu
+AGD-1650,PAC-0150,8,Feminino,Odontopediatria,Restauração Decíduo,30,140,Convênio,7,Segunda,Manhã,Sim,1,Compareceu
+AGD-1651,PAC-0409,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,4,Sábado,Noite,Sim,2,Faltou
+AGD-1652,PAC-0239,38,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,3,Quarta,Tarde,Sim,0,Compareceu
+AGD-1653,PAC-0282,45,Masculino,Endodontia,Retratamento Endodôntico,90,1400,Convênio,14,Terça,Manhã,Não,3,Faltou
+AGD-1654,PAC-0195,35,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,6,Terça,Tarde,Sim,1,Compareceu
+AGD-1655,PAC-0143,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-1656,PAC-0237,5,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,250,Convênio,0,Sexta,Manhã,Sim,2,Faltou
+AGD-1657,PAC-0478,51,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Particular,19,Terça,Tarde,Sim,1,Compareceu
+AGD-1658,PAC-0154,32,Feminino,Clínica Geral,Restauração em Resina,30,220,Particular,23,Terça,Tarde,Sim,1,Compareceu
+AGD-1659,PAC-0327,59,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,450,Particular,6,Quarta,Manhã,Sim,0,Compareceu
+AGD-1660,PAC-0167,26,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Quarta,Noite,Sim,0,Compareceu
+AGD-1661,PAC-0385,39,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,4,Sexta,Manhã,Sim,0,Compareceu
+AGD-1662,PAC-0152,27,Masculino,Endodontia,Tratamento de Canal (Molar),60,1100,Convênio,8,Quinta,Tarde,Sim,3,Compareceu
+AGD-1663,PAC-0383,38,Feminino,Clínica Geral,Restauração em Resina,60,220,Convênio,5,Quarta,Manhã,Sim,0,Compareceu
+AGD-1664,PAC-0542,36,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Particular,4,Quinta,Tarde,Não,0,Faltou
+AGD-1665,PAC-0311,45,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1666,PAC-0392,40,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,60,2200,Convênio,14,Quinta,Manhã,Sim,1,Compareceu
+AGD-1667,PAC-0186,7,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,1,Sábado,Manhã,Sim,1,Faltou
+AGD-1668,PAC-0352,39,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Convênio,6,Sexta,Manhã,Não,2,Faltou
+AGD-1669,PAC-0322,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,7,Quinta,Noite,Não,0,Compareceu
+AGD-1670,PAC-0500,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,1,Segunda,Tarde,Sim,0,Compareceu
+AGD-1671,PAC-0469,25,Feminino,Endodontia,Retratamento Endodôntico,90,850,Particular,3,Quinta,Noite,Sim,0,Compareceu
+AGD-1672,PAC-0334,57,Masculino,Clínica Geral,Restauração em Resina,30,220,Particular,6,Quarta,Manhã,Sim,0,Compareceu
+AGD-1673,PAC-0103,37,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,6,Sábado,Manhã,Não,2,Faltou
+AGD-1674,PAC-0541,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,1,Quarta,Tarde,Sim,1,Compareceu
+AGD-1675,PAC-0517,44,Feminino,Clínica Geral,Avaliação Inicial,60,160,Convênio,6,Segunda,Manhã,Sim,0,Compareceu
+AGD-1676,PAC-0253,46,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,900,Particular,22,Segunda,Manhã,Não,0,Compareceu
+AGD-1677,PAC-0345,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,3,Segunda,Tarde,Sim,0,Compareceu
+AGD-1678,PAC-0249,75,Masculino,Clínica Geral,Avaliação Inicial,60,280,Convênio,6,Segunda,Tarde,Sim,1,Faltou
+AGD-1679,PAC-0394,22,Feminino,Endodontia,Tratamento de Canal (Molar),90,1400,Convênio,7,Quinta,Manhã,Sim,0,Compareceu
+AGD-1680,PAC-0243,51,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,450,Convênio,9,Quarta,Noite,Sim,1,Compareceu
+AGD-1681,PAC-0388,37,Feminino,Clínica Geral,Restauração em Resina,60,160,Particular,3,Terça,Tarde,Sim,0,Compareceu
+AGD-1682,PAC-0449,55,Masculino,Clínica Geral,Avaliação Inicial,30,280,Convênio,1,Quinta,Manhã,Sim,0,Compareceu
+AGD-1683,PAC-0462,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,2,Segunda,Noite,Sim,0,Compareceu
+AGD-1684,PAC-0454,16,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,3,Terça,Tarde,Sim,0,Compareceu
+AGD-1685,PAC-0424,27,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,1500,Convênio,10,Quinta,Tarde,Sim,0,Compareceu
+AGD-1686,PAC-0437,60,Feminino,Clínica Geral,Restauração em Resina,60,280,Convênio,21,Terça,Tarde,Não,0,Compareceu
+AGD-1687,PAC-0504,31,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,4,Quinta,Tarde,Sim,0,Compareceu
+AGD-1688,PAC-0345,44,Masculino,Clínica Geral,Avaliação Inicial,45,280,Particular,7,Segunda,Tarde,Sim,0,Faltou
+AGD-1689,PAC-0378,35,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Particular,6,Sábado,Manhã,Sim,2,Faltou
+AGD-1690,PAC-0515,57,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Convênio,5,Segunda,Tarde,Sim,3,Faltou
+AGD-1691,PAC-0436,18,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Particular,4,Terça,Manhã,Sim,1,Compareceu
+AGD-1692,PAC-0413,28,Feminino,Clínica Geral,Restauração em Resina,60,280,Particular,12,Segunda,Manhã,Não,2,Faltou
+AGD-1693,PAC-0485,3,Feminino,Odontopediatria,Restauração Decíduo,45,140,Convênio,1,Segunda,Noite,Sim,0,Compareceu
+AGD-1694,PAC-0150,34,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Convênio,22,Terça,Tarde,Não,1,Faltou
+AGD-1695,PAC-0328,12,Feminino,Odontopediatria,Restauração Decíduo,45,190,Particular,2,Quarta,Manhã,Sim,3,Faltou
+AGD-1696,PAC-0453,18,Feminino,Clínica Geral,Avaliação Inicial,30,220,Particular,4,Segunda,Manhã,Sim,1,Compareceu
+AGD-1697,PAC-0112,53,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Particular,1,Segunda,Tarde,Não,0,Compareceu
+AGD-1698,PAC-0312,27,Feminino,Implantodontia / Cirurgia,Instalação de Implante,60,900,Convênio,1,Quarta,Noite,Sim,1,Compareceu
+AGD-1699,PAC-0278,47,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1400,Convênio,1,Quarta,Noite,Sim,0,Compareceu
+AGD-1700,PAC-0501,35,Masculino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Particular,19,Segunda,Manhã,Sim,0,Compareceu
+AGD-1701,PAC-0343,53,Feminino,Endodontia,Tratamento de Canal (Molar),90,1400,Particular,19,Sexta,Tarde,Sim,2,Compareceu
+AGD-1702,PAC-0263,18,Feminino,Clínica Geral,Restauração em Resina,45,100,Convênio,5,Segunda,Tarde,Sim,0,Compareceu
+AGD-1703,PAC-0514,8,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Convênio,2,Terça,Manhã,Sim,1,Compareceu
+AGD-1704,PAC-0431,30,Feminino,Clínica Geral,Restauração em Resina,60,160,Convênio,21,Quarta,Tarde,Sim,0,Compareceu
+AGD-1705,PAC-0479,21,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Particular,1,Terça,Tarde,Sim,0,Compareceu
+AGD-1706,PAC-0382,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,4,Sexta,Noite,Sim,3,Faltou
+AGD-1707,PAC-0218,32,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Convênio,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1708,PAC-0195,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,3,Quinta,Tarde,Sim,0,Faltou
+AGD-1709,PAC-0414,22,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Particular,2,Terça,Tarde,Sim,1,Compareceu
+AGD-1710,PAC-0319,18,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,17,Quinta,Manhã,Não,0,Compareceu
+AGD-1711,PAC-0242,46,Masculino,Clínica Geral,Avaliação Inicial,30,100,Particular,4,Quinta,Noite,Sim,2,Faltou
+AGD-1712,PAC-0509,18,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,1,Terça,Tarde,Sim,0,Compareceu
+AGD-1713,PAC-0334,18,Feminino,Endodontia,Tratamento de Canal (Molar),90,1400,Convênio,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1714,PAC-0370,9,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Particular,1,Terça,Tarde,Não,0,Faltou
+AGD-1715,PAC-0412,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,19,Sábado,Tarde,Não,0,Faltou
+AGD-1716,PAC-0532,31,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,6,Quinta,Manhã,Sim,0,Compareceu
+AGD-1717,PAC-0402,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,16,Terça,Manhã,Sim,0,Compareceu
+AGD-1718,PAC-0222,56,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,0,Sexta,Tarde,Sim,3,Faltou
+AGD-1719,PAC-0291,40,Feminino,Endodontia,Retratamento Endodôntico,60,1400,Particular,14,Quinta,Tarde,Sim,0,Compareceu
+AGD-1720,PAC-0314,31,Masculino,Endodontia,Retratamento Endodôntico,60,1400,Particular,10,Segunda,Noite,Sim,0,Compareceu
+AGD-1721,PAC-0316,11,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,250,Particular,1,Sábado,Tarde,Sim,1,Compareceu
+AGD-1722,PAC-0455,5,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Convênio,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1723,PAC-0350,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1724,PAC-0531,56,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Convênio,4,Quinta,Manhã,Sim,0,Faltou
+AGD-1725,PAC-0543,18,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Convênio,1,Segunda,Noite,Sim,0,Compareceu
+AGD-1726,PAC-0169,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,25,Sexta,Manhã,Sim,0,Faltou
+AGD-1727,PAC-0450,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,20,Sexta,Tarde,Sim,0,Compareceu
+AGD-1728,PAC-0185,7,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,140,Convênio,19,Segunda,Tarde,Sim,0,Compareceu
+AGD-1729,PAC-0116,51,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Particular,23,Segunda,Manhã,Sim,0,Compareceu
+AGD-1730,PAC-0186,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,8,Quinta,Noite,Não,0,Faltou
+AGD-1731,PAC-0158,40,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,1500,Particular,7,Quinta,Manhã,Sim,1,Compareceu
+AGD-1732,PAC-0377,6,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,250,Particular,3,Sexta,Tarde,Sim,0,Compareceu
+AGD-1733,PAC-0317,36,Masculino,Endodontia,Tratamento de Canal (Molar),120,850,Convênio,4,Quinta,Manhã,Sim,0,Compareceu
+AGD-1734,PAC-0252,8,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,38,Quinta,Manhã,Sim,1,Compareceu
+AGD-1735,PAC-0541,36,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,20,Sexta,Tarde,Sim,0,Compareceu
+AGD-1736,PAC-0515,29,Feminino,Endodontia,Tratamento de Canal (Molar),60,1100,Particular,1,Segunda,Tarde,Não,1,Compareceu
+AGD-1737,PAC-0540,75,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-1738,PAC-0184,20,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,900,Convênio,6,Quarta,Manhã,Não,1,Compareceu
+AGD-1739,PAC-0516,35,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Convênio,28,Segunda,Manhã,Sim,1,Compareceu
+AGD-1740,PAC-0279,37,Feminino,Clínica Geral,Avaliação Inicial,45,160,Particular,7,Quarta,Manhã,Sim,1,Compareceu
+AGD-1741,PAC-0265,34,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,90,1500,Particular,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-1742,PAC-0393,44,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,450,Particular,10,Quarta,Manhã,Sim,0,Compareceu
+AGD-1743,PAC-0169,34,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Particular,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-1744,PAC-0543,35,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,11,Sexta,Manhã,Sim,0,Compareceu
+AGD-1745,PAC-0174,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,2,Terça,Tarde,Sim,2,Compareceu
+AGD-1746,PAC-0172,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-1747,PAC-0138,34,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,19,Terça,Noite,Sim,1,Compareceu
+AGD-1748,PAC-0549,22,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Quarta,Manhã,Sim,3,Compareceu
+AGD-1749,PAC-0397,38,Masculino,Clínica Geral,Restauração em Resina,60,100,Particular,9,Terça,Tarde,Sim,0,Compareceu
+AGD-1750,PAC-0474,42,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,1500,Particular,3,Sexta,Noite,Sim,0,Compareceu
+AGD-1751,PAC-0535,19,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,5,Sábado,Manhã,Sim,0,Compareceu
+AGD-1752,PAC-0211,42,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Particular,1,Segunda,Tarde,Não,1,Compareceu
+AGD-1753,PAC-0237,29,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,15,Quinta,Tarde,Sim,0,Compareceu
+AGD-1754,PAC-0395,39,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,0,Sexta,Tarde,Sim,0,Compareceu
+AGD-1755,PAC-0503,59,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,100,Convênio,6,Quarta,Manhã,Sim,1,Faltou
+AGD-1756,PAC-0123,18,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Particular,13,Quarta,Tarde,Sim,0,Compareceu
+AGD-1757,PAC-0163,12,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,9,Quinta,Manhã,Sim,0,Compareceu
+AGD-1758,PAC-0319,17,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,4,Sábado,Manhã,Sim,0,Compareceu
+AGD-1759,PAC-0547,18,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,220,Particular,9,Segunda,Tarde,Sim,0,Compareceu
+AGD-1760,PAC-0228,43,Feminino,Clínica Geral,Restauração em Resina,45,160,Convênio,2,Terça,Tarde,Sim,0,Compareceu
+AGD-1761,PAC-0126,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,1,Terça,Manhã,Sim,0,Compareceu
+AGD-1762,PAC-0435,55,Feminino,Endodontia,Tratamento de Canal (Molar),120,650,Particular,6,Terça,Tarde,Sim,0,Compareceu
+AGD-1763,PAC-0100,5,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,140,Particular,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-1764,PAC-0403,24,Feminino,Clínica Geral,Restauração em Resina,60,280,Convênio,7,Quarta,Tarde,Não,0,Faltou
+AGD-1765,PAC-0104,9,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,140,Convênio,0,Quarta,Tarde,Sim,1,Compareceu
+AGD-1766,PAC-0455,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,4,Quarta,Tarde,Sim,3,Compareceu
+AGD-1767,PAC-0296,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1768,PAC-0288,55,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Convênio,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1769,PAC-0496,11,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,140,Convênio,13,Segunda,Manhã,Sim,0,Compareceu
+AGD-1770,PAC-0388,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,3,Quarta,Tarde,Sim,0,Compareceu
+AGD-1771,PAC-0469,40,Feminino,Endodontia,Tratamento de Canal (Molar),120,850,Particular,5,Segunda,Manhã,Sim,1,Compareceu
+AGD-1772,PAC-0310,18,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,1,Segunda,Tarde,Sim,0,Compareceu
+AGD-1773,PAC-0540,5,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,140,Convênio,5,Sábado,Tarde,Sim,0,Faltou
+AGD-1774,PAC-0485,18,Feminino,Clínica Geral,Restauração em Resina,60,280,Convênio,0,Sexta,Tarde,Sim,1,Compareceu
+AGD-1775,PAC-0279,6,Feminino,Odontopediatria,Restauração Decíduo,45,140,Particular,6,Sexta,Manhã,Sim,0,Faltou
+AGD-1776,PAC-0241,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,8,Quinta,Noite,Sim,0,Faltou
+AGD-1777,PAC-0453,26,Masculino,Clínica Geral,Restauração em Resina,60,220,Particular,14,Quarta,Manhã,Não,1,Faltou
+AGD-1778,PAC-0205,62,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,380,Particular,8,Segunda,Noite,Sim,0,Compareceu
+AGD-1779,PAC-0430,23,Masculino,Clínica Geral,Restauração em Resina,30,280,Particular,1,Terça,Manhã,Sim,2,Compareceu
+AGD-1780,PAC-0297,45,Feminino,Clínica Geral,Restauração em Resina,30,280,Particular,15,Quinta,Noite,Sim,0,Compareceu
+AGD-1781,PAC-0426,49,Feminino,Clínica Geral,Avaliação Inicial,30,100,Particular,7,Sexta,Tarde,Não,0,Compareceu
+AGD-1782,PAC-0284,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,4,Quinta,Manhã,Sim,0,Compareceu
+AGD-1783,PAC-0391,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-1784,PAC-0341,42,Masculino,Implantodontia / Cirurgia,Instalação de Implante,60,450,Convênio,5,Quinta,Tarde,Sim,0,Compareceu
+AGD-1785,PAC-0107,18,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Convênio,3,Quinta,Tarde,Sim,1,Compareceu
+AGD-1786,PAC-0130,38,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Convênio,0,Quarta,Tarde,Não,0,Compareceu
+AGD-1787,PAC-0421,25,Masculino,Endodontia,Retratamento Endodôntico,120,1400,Particular,14,Quinta,Manhã,Não,0,Faltou
+AGD-1788,PAC-0316,37,Masculino,Endodontia,Retratamento Endodôntico,90,650,Convênio,3,Quinta,Tarde,Não,0,Compareceu
+AGD-1789,PAC-0427,31,Feminino,Endodontia,Retratamento Endodôntico,120,850,Particular,14,Quarta,Tarde,Sim,0,Compareceu
+AGD-1790,PAC-0242,36,Feminino,Clínica Geral,Restauração em Resina,45,100,Convênio,4,Sábado,Manhã,Sim,3,Compareceu
+AGD-1791,PAC-0361,24,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,4,Sexta,Manhã,Sim,2,Compareceu
+AGD-1792,PAC-0400,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,19,Sexta,Manhã,Não,0,Faltou
+AGD-1793,PAC-0533,45,Feminino,Endodontia,Tratamento de Canal (Molar),60,850,Particular,10,Quarta,Tarde,Sim,0,Compareceu
+AGD-1794,PAC-0144,27,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1400,Convênio,2,Quarta,Manhã,Não,2,Faltou
+AGD-1795,PAC-0413,35,Masculino,Endodontia,Retratamento Endodôntico,60,1100,Particular,3,Quinta,Tarde,Sim,0,Compareceu
+AGD-1796,PAC-0441,27,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,900,Particular,3,Terça,Manhã,Não,1,Compareceu
+AGD-1797,PAC-0161,18,Masculino,Clínica Geral,Restauração em Resina,60,160,Particular,1,Segunda,Tarde,Sim,0,Compareceu
+AGD-1798,PAC-0459,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Segunda,Manhã,Não,0,Faltou
+AGD-1799,PAC-0367,16,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Quinta,Noite,Sim,0,Compareceu
+AGD-1800,PAC-0483,35,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,100,Convênio,18,Quarta,Manhã,Sim,0,Compareceu
+AGD-1801,PAC-0494,32,Masculino,Clínica Geral,Restauração em Resina,45,280,Convênio,0,Sábado,Manhã,Sim,0,Faltou
+AGD-1802,PAC-0239,12,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,190,Convênio,3,Quarta,Tarde,Sim,1,Compareceu
+AGD-1803,PAC-0421,28,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,5,Sexta,Tarde,Sim,0,Compareceu
+AGD-1804,PAC-0284,61,Masculino,Endodontia,Tratamento de Canal (Molar),90,850,Particular,4,Terça,Tarde,Sim,0,Compareceu
+AGD-1805,PAC-0288,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,28,Segunda,Tarde,Sim,0,Compareceu
+AGD-1806,PAC-0445,13,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,6,Segunda,Noite,Sim,0,Compareceu
+AGD-1807,PAC-0539,68,Masculino,Endodontia,Tratamento de Canal (Molar),60,650,Particular,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1808,PAC-0341,18,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,9,Quarta,Tarde,Sim,0,Compareceu
+AGD-1809,PAC-0191,27,Masculino,Endodontia,Tratamento de Canal (Molar),120,1400,Particular,12,Segunda,Noite,Sim,0,Compareceu
+AGD-1810,PAC-0214,25,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Particular,9,Segunda,Manhã,Sim,0,Compareceu
+AGD-1811,PAC-0468,26,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Convênio,15,Sábado,Manhã,Sim,1,Compareceu
+AGD-1812,PAC-0392,45,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Particular,5,Terça,Manhã,Sim,0,Compareceu
+AGD-1813,PAC-0191,48,Feminino,Clínica Geral,Restauração em Resina,60,100,Convênio,10,Quarta,Manhã,Sim,2,Compareceu
+AGD-1814,PAC-0305,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,8,Segunda,Noite,Sim,1,Faltou
+AGD-1815,PAC-0532,11,Feminino,Odontopediatria,Restauração Decíduo,45,140,Convênio,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-1816,PAC-0333,7,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,140,Convênio,5,Quinta,Manhã,Não,0,Compareceu
+AGD-1817,PAC-0388,41,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,900,Convênio,1,Terça,Manhã,Sim,0,Compareceu
+AGD-1818,PAC-0337,45,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Particular,0,Terça,Manhã,Sim,0,Compareceu
+AGD-1819,PAC-0495,3,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,140,Particular,20,Quinta,Tarde,Sim,0,Compareceu
+AGD-1820,PAC-0309,32,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,8,Segunda,Tarde,Sim,0,Compareceu
+AGD-1821,PAC-0529,44,Masculino,Clínica Geral,Avaliação Inicial,30,220,Particular,14,Quarta,Noite,Sim,1,Compareceu
+AGD-1822,PAC-0100,30,Feminino,Clínica Geral,Avaliação Inicial,45,220,Convênio,2,Sexta,Manhã,Sim,0,Faltou
+AGD-1823,PAC-0153,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,2,Terça,Noite,Sim,0,Compareceu
+AGD-1824,PAC-0130,13,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Segunda,Noite,Não,0,Compareceu
+AGD-1825,PAC-0218,46,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,90,1500,Particular,6,Terça,Manhã,Sim,0,Compareceu
+AGD-1826,PAC-0334,32,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1827,PAC-0519,50,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Particular,5,Quinta,Tarde,Sim,0,Compareceu
+AGD-1828,PAC-0322,20,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,0,Quinta,Noite,Sim,2,Compareceu
+AGD-1829,PAC-0535,45,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Particular,1,Quarta,Noite,Sim,0,Compareceu
+AGD-1830,PAC-0262,30,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Particular,10,Quinta,Manhã,Sim,1,Compareceu
+AGD-1831,PAC-0138,36,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Convênio,2,Quarta,Manhã,Sim,0,Compareceu
+AGD-1832,PAC-0155,42,Feminino,Endodontia,Tratamento de Canal (Molar),60,850,Convênio,16,Segunda,Manhã,Não,0,Compareceu
+AGD-1833,PAC-0330,26,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Particular,26,Quinta,Manhã,Sim,0,Faltou
+AGD-1834,PAC-0161,20,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,90,900,Convênio,3,Segunda,Manhã,Sim,0,Compareceu
+AGD-1835,PAC-0331,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-1836,PAC-0146,18,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,0,Quarta,Manhã,Sim,1,Compareceu
+AGD-1837,PAC-0527,58,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,450,Convênio,2,Quarta,Manhã,Sim,0,Faltou
+AGD-1838,PAC-0464,28,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,2,Segunda,Manhã,Sim,0,Compareceu
+AGD-1839,PAC-0125,50,Feminino,Clínica Geral,Avaliação Inicial,45,220,Particular,3,Terça,Manhã,Sim,0,Compareceu
+AGD-1840,PAC-0519,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,8,Quarta,Noite,Sim,0,Compareceu
+AGD-1841,PAC-0384,33,Feminino,Clínica Geral,Avaliação Inicial,60,160,Particular,6,Segunda,Tarde,Sim,0,Compareceu
+AGD-1842,PAC-0148,52,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Convênio,3,Terça,Manhã,Sim,0,Faltou
+AGD-1843,PAC-0162,25,Feminino,Endodontia,Tratamento de Canal (Molar),60,850,Convênio,7,Terça,Tarde,Sim,0,Compareceu
+AGD-1844,PAC-0166,23,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Particular,3,Quinta,Manhã,Sim,0,Compareceu
+AGD-1845,PAC-0451,12,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Particular,7,Sábado,Noite,Não,0,Faltou
+AGD-1846,PAC-0232,43,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,11,Sexta,Manhã,Não,0,Faltou
+AGD-1847,PAC-0201,56,Masculino,Endodontia,Retratamento Endodôntico,90,850,Particular,7,Terça,Manhã,Sim,0,Compareceu
+AGD-1848,PAC-0147,18,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Convênio,16,Segunda,Manhã,Não,0,Compareceu
+AGD-1849,PAC-0336,45,Masculino,Clínica Geral,Restauração em Resina,30,280,Convênio,14,Segunda,Manhã,Sim,0,Faltou
+AGD-1850,PAC-0520,3,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,190,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1851,PAC-0295,38,Feminino,Clínica Geral,Avaliação Inicial,45,160,Particular,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-1852,PAC-0281,37,Feminino,Implantodontia / Cirurgia,Instalação de Implante,60,1500,Particular,0,Quinta,Manhã,Sim,1,Compareceu
+AGD-1853,PAC-0243,12,Feminino,Odontopediatria,Restauração Decíduo,30,140,Convênio,4,Quinta,Tarde,Sim,1,Compareceu
+AGD-1854,PAC-0417,54,Feminino,Clínica Geral,Avaliação Inicial,30,220,Convênio,1,Sexta,Tarde,Não,0,Compareceu
+AGD-1855,PAC-0355,37,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,2200,Convênio,6,Sexta,Manhã,Sim,0,Compareceu
+AGD-1856,PAC-0131,30,Feminino,Clínica Geral,Restauração em Resina,45,280,Particular,2,Segunda,Tarde,Sim,0,Compareceu
+AGD-1857,PAC-0170,45,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Particular,10,Segunda,Tarde,Sim,0,Compareceu
+AGD-1858,PAC-0422,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,8,Quarta,Tarde,Sim,1,Compareceu
+AGD-1859,PAC-0378,55,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Convênio,0,Quinta,Manhã,Sim,2,Compareceu
+AGD-1860,PAC-0357,20,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,1500,Convênio,7,Sábado,Tarde,Sim,0,Compareceu
+AGD-1861,PAC-0192,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,31,Quarta,Manhã,Sim,0,Faltou
+AGD-1862,PAC-0515,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,6,Quarta,Tarde,Sim,0,Faltou
+AGD-1863,PAC-0283,19,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Segunda,Noite,Sim,0,Compareceu
+AGD-1864,PAC-0436,3,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,250,Particular,8,Terça,Tarde,Sim,0,Compareceu
+AGD-1865,PAC-0491,68,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Convênio,15,Segunda,Tarde,Não,0,Compareceu
+AGD-1866,PAC-0281,30,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,8,Quarta,Noite,Não,0,Faltou
+AGD-1867,PAC-0262,34,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Particular,5,Sábado,Manhã,Sim,0,Compareceu
+AGD-1868,PAC-0458,44,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Convênio,0,Segunda,Noite,Sim,0,Compareceu
+AGD-1869,PAC-0388,17,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,11,Sábado,Noite,Sim,0,Faltou
+AGD-1870,PAC-0351,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,1,Segunda,Tarde,Não,3,Faltou
+AGD-1871,PAC-0408,12,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,28,Quarta,Manhã,Não,0,Faltou
+AGD-1872,PAC-0269,34,Feminino,Endodontia,Retratamento Endodôntico,60,850,Convênio,3,Quinta,Tarde,Não,0,Compareceu
+AGD-1873,PAC-0274,44,Masculino,Clínica Geral,Avaliação Inicial,30,220,Particular,4,Quarta,Tarde,Sim,0,Compareceu
+AGD-1874,PAC-0130,53,Masculino,Implantodontia / Cirurgia,Instalação de Implante,60,900,Convênio,6,Segunda,Tarde,Sim,0,Compareceu
+AGD-1875,PAC-0496,58,Masculino,Clínica Geral,Restauração em Resina,60,220,Convênio,8,Quinta,Tarde,Sim,0,Compareceu
+AGD-1876,PAC-0137,26,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Particular,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1877,PAC-0400,34,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Convênio,17,Segunda,Noite,Sim,0,Compareceu
+AGD-1878,PAC-0265,9,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,250,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1879,PAC-0505,31,Feminino,Endodontia,Retratamento Endodôntico,90,1100,Convênio,2,Terça,Tarde,Sim,0,Compareceu
+AGD-1880,PAC-0189,23,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,1500,Particular,4,Quinta,Tarde,Sim,2,Compareceu
+AGD-1881,PAC-0214,42,Masculino,Clínica Geral,Avaliação Inicial,60,160,Convênio,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-1882,PAC-0293,17,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,39,Sexta,Tarde,Sim,0,Compareceu
+AGD-1883,PAC-0473,18,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,550,Convênio,1,Segunda,Manhã,Sim,0,Faltou
+AGD-1884,PAC-0116,47,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Particular,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1885,PAC-0514,32,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,450,Convênio,4,Quinta,Tarde,Sim,0,Compareceu
+AGD-1886,PAC-0354,25,Masculino,Clínica Geral,Restauração em Resina,45,100,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1887,PAC-0221,36,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Particular,4,Segunda,Noite,Sim,0,Compareceu
+AGD-1888,PAC-0425,25,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Particular,5,Sexta,Noite,Sim,0,Compareceu
+AGD-1889,PAC-0328,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,13,Quarta,Manhã,Sim,0,Compareceu
+AGD-1890,PAC-0454,45,Feminino,Endodontia,Tratamento de Canal (Molar),90,1100,Particular,4,Segunda,Manhã,Sim,0,Faltou
+AGD-1891,PAC-0502,44,Masculino,Clínica Geral,Restauração em Resina,60,100,Convênio,14,Quarta,Tarde,Sim,0,Compareceu
+AGD-1892,PAC-0124,39,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Convênio,13,Quarta,Manhã,Sim,0,Compareceu
+AGD-1893,PAC-0185,8,Masculino,Odontopediatria,Restauração Decíduo,45,190,Convênio,5,Quarta,Tarde,Sim,0,Compareceu
+AGD-1894,PAC-0379,43,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Particular,1,Terça,Manhã,Sim,1,Compareceu
+AGD-1895,PAC-0503,47,Masculino,Clínica Geral,Avaliação Inicial,60,160,Particular,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-1896,PAC-0183,21,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-1897,PAC-0110,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,3,Sábado,Noite,Sim,0,Faltou
+AGD-1898,PAC-0275,51,Feminino,Endodontia,Tratamento de Canal (Molar),90,850,Particular,4,Sexta,Tarde,Sim,0,Compareceu
+AGD-1899,PAC-0474,38,Feminino,Endodontia,Tratamento de Canal (Molar),120,650,Convênio,2,Sábado,Manhã,Sim,1,Faltou
+AGD-1900,PAC-0273,3,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Particular,5,Quinta,Tarde,Sim,1,Compareceu
+AGD-1901,PAC-0320,9,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Particular,4,Segunda,Tarde,Sim,0,Compareceu
+AGD-1902,PAC-0180,27,Feminino,Clínica Geral,Restauração em Resina,30,220,Convênio,4,Sábado,Tarde,Sim,1,Faltou
+AGD-1903,PAC-0205,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,9,Sexta,Manhã,Sim,0,Compareceu
+AGD-1904,PAC-0244,49,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Particular,16,Sábado,Manhã,Não,0,Faltou
+AGD-1905,PAC-0125,26,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Convênio,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-1906,PAC-0178,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,0,Sexta,Manhã,Não,1,Compareceu
+AGD-1907,PAC-0144,20,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Particular,9,Sábado,Tarde,Sim,0,Compareceu
+AGD-1908,PAC-0202,17,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,15,Quinta,Tarde,Sim,0,Compareceu
+AGD-1909,PAC-0426,65,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,280,Convênio,0,Sexta,Manhã,Sim,2,Faltou
+AGD-1910,PAC-0532,49,Feminino,Clínica Geral,Restauração em Resina,45,280,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1911,PAC-0341,23,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),120,1500,Convênio,5,Terça,Tarde,Sim,0,Compareceu
+AGD-1912,PAC-0146,53,Feminino,Endodontia,Retratamento Endodôntico,120,1400,Convênio,12,Sábado,Manhã,Sim,1,Compareceu
+AGD-1913,PAC-0194,50,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Convênio,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-1914,PAC-0195,10,Feminino,Odontopediatria,Restauração Decíduo,30,190,Particular,7,Quarta,Tarde,Sim,1,Compareceu
+AGD-1915,PAC-0338,67,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Particular,2,Segunda,Noite,Sim,0,Compareceu
+AGD-1916,PAC-0388,18,Feminino,Endodontia,Tratamento de Canal (Molar),60,650,Convênio,2,Quarta,Noite,Sim,1,Compareceu
+AGD-1917,PAC-0143,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,6,Terça,Tarde,Sim,0,Compareceu
+AGD-1918,PAC-0131,10,Masculino,Odontopediatria,Restauração Decíduo,45,250,Particular,4,Sexta,Manhã,Sim,0,Compareceu
+AGD-1919,PAC-0393,24,Masculino,Endodontia,Tratamento de Canal (Molar),90,1100,Particular,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-1920,PAC-0140,54,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Convênio,8,Terça,Tarde,Sim,0,Compareceu
+AGD-1921,PAC-0357,24,Masculino,Clínica Geral,Avaliação Inicial,60,160,Particular,1,Sexta,Tarde,Sim,0,Compareceu
+AGD-1922,PAC-0161,38,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Particular,2,Quarta,Tarde,Sim,0,Compareceu
+AGD-1923,PAC-0208,50,Feminino,Clínica Geral,Restauração em Resina,30,100,Particular,0,Segunda,Manhã,Sim,0,Compareceu
+AGD-1924,PAC-0316,46,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Particular,6,Terça,Tarde,Não,0,Compareceu
+AGD-1925,PAC-0203,32,Masculino,Clínica Geral,Avaliação Inicial,30,220,Particular,10,Terça,Tarde,Não,0,Compareceu
+AGD-1926,PAC-0263,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,4,Terça,Noite,Sim,0,Compareceu
+AGD-1927,PAC-0303,56,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Convênio,24,Segunda,Manhã,Sim,1,Faltou
+AGD-1928,PAC-0334,25,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,5,Sexta,Tarde,Sim,0,Compareceu
+AGD-1929,PAC-0176,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,5,Sexta,Tarde,Sim,0,Compareceu
+AGD-1930,PAC-0499,38,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Particular,3,Terça,Manhã,Sim,1,Compareceu
+AGD-1931,PAC-0549,21,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Particular,16,Quarta,Tarde,Sim,0,Compareceu
+AGD-1932,PAC-0435,65,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Convênio,1,Sexta,Manhã,Sim,0,Compareceu
+AGD-1933,PAC-0119,16,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,4,Sábado,Tarde,Sim,0,Compareceu
+AGD-1934,PAC-0416,36,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,380,Convênio,4,Sexta,Manhã,Sim,0,Compareceu
+AGD-1935,PAC-0550,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,6,Quarta,Manhã,Sim,0,Compareceu
+AGD-1936,PAC-0343,51,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Particular,10,Terça,Noite,Sim,0,Compareceu
+AGD-1937,PAC-0272,66,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,220,Particular,1,Segunda,Tarde,Sim,2,Compareceu
+AGD-1938,PAC-0531,66,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,100,Particular,25,Quinta,Tarde,Não,1,Faltou
+AGD-1939,PAC-0544,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,0,Terça,Noite,Sim,0,Compareceu
+AGD-1940,PAC-0326,36,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,2200,Convênio,9,Quarta,Manhã,Sim,1,Faltou
+AGD-1941,PAC-0409,38,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,380,Convênio,13,Sexta,Manhã,Sim,1,Compareceu
+AGD-1942,PAC-0208,48,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Particular,21,Quarta,Tarde,Sim,0,Compareceu
+AGD-1943,PAC-0544,63,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,4,Sexta,Noite,Sim,0,Compareceu
+AGD-1944,PAC-0133,11,Masculino,Odontopediatria,Restauração Decíduo,45,140,Convênio,6,Segunda,Manhã,Não,0,Compareceu
+AGD-1945,PAC-0550,34,Masculino,Clínica Geral,Avaliação Inicial,30,160,Convênio,4,Quarta,Manhã,Sim,1,Faltou
+AGD-1946,PAC-0198,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,9,Quinta,Manhã,Sim,1,Compareceu
+AGD-1947,PAC-0333,50,Feminino,Clínica Geral,Restauração em Resina,45,160,Particular,8,Terça,Manhã,Sim,0,Compareceu
+AGD-1948,PAC-0240,28,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Particular,9,Segunda,Tarde,Não,0,Faltou
+AGD-1949,PAC-0425,30,Feminino,Clínica Geral,Restauração em Resina,60,100,Particular,5,Segunda,Manhã,Sim,0,Compareceu
+AGD-1950,PAC-0223,42,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,280,Convênio,10,Segunda,Tarde,Não,0,Compareceu
+AGD-1951,PAC-0190,18,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1100,Particular,6,Quarta,Manhã,Sim,0,Compareceu
+AGD-1952,PAC-0276,4,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,250,Particular,2,Sexta,Noite,Sim,0,Compareceu
+AGD-1953,PAC-0245,32,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,450,Particular,3,Segunda,Manhã,Sim,1,Compareceu
+AGD-1954,PAC-0183,33,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,1,Terça,Tarde,Sim,2,Compareceu
+AGD-1955,PAC-0205,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,13,Quinta,Manhã,Não,1,Faltou
+AGD-1956,PAC-0492,29,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,2200,Convênio,2,Terça,Tarde,Sim,0,Compareceu
+AGD-1957,PAC-0167,3,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Convênio,15,Segunda,Noite,Não,0,Faltou
+AGD-1958,PAC-0214,34,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Particular,15,Sexta,Tarde,Sim,1,Compareceu
+AGD-1959,PAC-0464,42,Feminino,Clínica Geral,Avaliação Inicial,60,220,Particular,13,Terça,Tarde,Sim,1,Compareceu
+AGD-1960,PAC-0316,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,9,Sexta,Manhã,Não,0,Faltou
+AGD-1961,PAC-0211,30,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,16,Quarta,Manhã,Sim,2,Compareceu
+AGD-1962,PAC-0152,48,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Particular,5,Segunda,Manhã,Sim,0,Compareceu
+AGD-1963,PAC-0387,25,Feminino,Endodontia,Retratamento Endodôntico,120,1100,Particular,6,Segunda,Tarde,Sim,0,Compareceu
+AGD-1964,PAC-0252,31,Feminino,Endodontia,Retratamento Endodôntico,60,1400,Particular,5,Segunda,Tarde,Não,0,Compareceu
+AGD-1965,PAC-0132,42,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Particular,14,Sábado,Tarde,Não,0,Compareceu
+AGD-1966,PAC-0541,18,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,10,Terça,Manhã,Sim,0,Compareceu
+AGD-1967,PAC-0176,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Terça,Manhã,Sim,3,Compareceu
+AGD-1968,PAC-0263,67,Feminino,Clínica Geral,Avaliação Inicial,30,100,Particular,3,Terça,Noite,Sim,1,Compareceu
+AGD-1969,PAC-0435,25,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Convênio,24,Quinta,Tarde,Não,2,Faltou
+AGD-1970,PAC-0314,64,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,100,Convênio,30,Terça,Noite,Sim,2,Faltou
+AGD-1971,PAC-0398,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,7,Quinta,Tarde,Sim,0,Faltou
+AGD-1972,PAC-0373,33,Feminino,Clínica Geral,Avaliação Inicial,45,220,Particular,8,Segunda,Manhã,Sim,0,Compareceu
+AGD-1973,PAC-0359,39,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,550,Particular,4,Quarta,Noite,Sim,0,Compareceu
+AGD-1974,PAC-0548,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-1975,PAC-0165,18,Feminino,Clínica Geral,Avaliação Inicial,45,160,Convênio,8,Terça,Tarde,Sim,0,Compareceu
+AGD-1976,PAC-0448,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,3,Sábado,Manhã,Sim,1,Compareceu
+AGD-1977,PAC-0214,20,Feminino,Endodontia,Retratamento Endodôntico,90,1400,Particular,0,Terça,Tarde,Sim,0,Compareceu
+AGD-1978,PAC-0503,43,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,380,Convênio,8,Sábado,Tarde,Sim,1,Compareceu
+AGD-1979,PAC-0399,54,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Particular,3,Quinta,Tarde,Não,0,Compareceu
+AGD-1980,PAC-0340,6,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,190,Particular,3,Segunda,Manhã,Sim,0,Compareceu
+AGD-1981,PAC-0356,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,1,Terça,Tarde,Sim,2,Faltou
+AGD-1982,PAC-0127,42,Feminino,Clínica Geral,Restauração em Resina,30,160,Particular,10,Sexta,Tarde,Sim,0,Compareceu
+AGD-1983,PAC-0275,21,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,280,Particular,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-1984,PAC-0173,27,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Particular,18,Quinta,Tarde,Não,0,Compareceu
+AGD-1985,PAC-0498,39,Feminino,Endodontia,Tratamento de Canal (Molar),90,1100,Particular,10,Quarta,Manhã,Sim,0,Compareceu
+AGD-1986,PAC-0423,3,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,250,Convênio,0,Quarta,Manhã,Sim,0,Compareceu
+AGD-1987,PAC-0102,41,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Particular,5,Quarta,Manhã,Sim,0,Compareceu
+AGD-1988,PAC-0489,40,Masculino,Endodontia,Tratamento de Canal (Molar),120,850,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-1989,PAC-0350,58,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Convênio,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-1990,PAC-0322,51,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,90,2200,Particular,4,Quinta,Manhã,Não,0,Faltou
+AGD-1991,PAC-0319,47,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,100,Particular,13,Quarta,Manhã,Sim,0,Compareceu
+AGD-1992,PAC-0119,53,Masculino,Clínica Geral,Avaliação Inicial,30,220,Convênio,4,Quarta,Manhã,Sim,0,Compareceu
+AGD-1993,PAC-0107,32,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Convênio,12,Sexta,Manhã,Sim,0,Faltou
+AGD-1994,PAC-0109,48,Feminino,Clínica Geral,Avaliação Inicial,30,160,Particular,5,Sexta,Manhã,Sim,0,Compareceu
+AGD-1995,PAC-0215,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,10,Sexta,Tarde,Não,0,Compareceu
+AGD-1996,PAC-0296,38,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,5,Segunda,Manhã,Sim,1,Compareceu
+AGD-1997,PAC-0123,18,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1400,Particular,0,Terça,Tarde,Sim,1,Compareceu
+AGD-1998,PAC-0472,28,Feminino,Endodontia,Retratamento Endodôntico,120,1100,Particular,5,Sábado,Manhã,Sim,1,Compareceu
+AGD-1999,PAC-0322,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,1,Terça,Tarde,Não,3,Compareceu
+AGD-2000,PAC-0484,12,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,11,Quinta,Noite,Sim,0,Compareceu
+AGD-2001,PAC-0216,51,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,900,Particular,7,Quarta,Noite,Sim,0,Compareceu
+AGD-2002,PAC-0208,59,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,250,Particular,2,Terça,Tarde,Sim,0,Compareceu
+AGD-2003,PAC-0287,41,Feminino,Clínica Geral,Avaliação Inicial,60,100,Particular,21,Sábado,Tarde,Sim,1,Faltou
+AGD-2004,PAC-0292,57,Masculino,Endodontia,Retratamento Endodôntico,90,650,Particular,0,Quinta,Noite,Sim,1,Compareceu
+AGD-2005,PAC-0404,42,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,3,Quinta,Tarde,Sim,0,Compareceu
+AGD-2006,PAC-0528,25,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,11,Sexta,Tarde,Sim,0,Compareceu
+AGD-2007,PAC-0327,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,2,Segunda,Manhã,Sim,1,Compareceu
+AGD-2008,PAC-0459,52,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,7,Quarta,Tarde,Sim,0,Compareceu
+AGD-2009,PAC-0451,33,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,6,Sexta,Tarde,Sim,0,Compareceu
+AGD-2010,PAC-0151,23,Masculino,Clínica Geral,Avaliação Inicial,60,220,Particular,4,Sexta,Tarde,Não,0,Faltou
+AGD-2011,PAC-0418,18,Feminino,Clínica Geral,Avaliação Inicial,60,160,Particular,3,Quinta,Manhã,Sim,1,Compareceu
+AGD-2012,PAC-0314,39,Feminino,Endodontia,Tratamento de Canal (Molar),120,650,Convênio,17,Sábado,Manhã,Sim,1,Compareceu
+AGD-2013,PAC-0244,51,Feminino,Implantodontia / Cirurgia,Instalação de Implante,60,2200,Convênio,0,Quinta,Tarde,Sim,0,Compareceu
+AGD-2014,PAC-0201,51,Masculino,Endodontia,Retratamento Endodôntico,60,1100,Particular,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-2015,PAC-0525,21,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,1,Quarta,Noite,Sim,0,Compareceu
+AGD-2016,PAC-0182,10,Masculino,Odontopediatria,Condicionamento e Profilaxia,45,140,Particular,4,Quinta,Tarde,Sim,3,Compareceu
+AGD-2017,PAC-0269,4,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,140,Particular,0,Terça,Manhã,Sim,0,Compareceu
+AGD-2018,PAC-0156,23,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,2200,Particular,5,Terça,Tarde,Sim,0,Compareceu
+AGD-2019,PAC-0176,20,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-2020,PAC-0429,26,Feminino,Endodontia,Tratamento de Canal (Molar),90,1100,Particular,11,Quarta,Tarde,Sim,0,Compareceu
+AGD-2021,PAC-0235,36,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,250,Convênio,8,Quarta,Tarde,Sim,0,Compareceu
+AGD-2022,PAC-0516,8,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,190,Particular,0,Quarta,Manhã,Sim,1,Compareceu
+AGD-2023,PAC-0510,28,Masculino,Clínica Geral,Avaliação Inicial,45,280,Convênio,23,Segunda,Noite,Sim,0,Faltou
+AGD-2024,PAC-0478,43,Feminino,Clínica Geral,Restauração em Resina,30,100,Convênio,11,Sexta,Manhã,Não,1,Compareceu
+AGD-2025,PAC-0104,21,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,380,Particular,2,Quarta,Manhã,Sim,0,Compareceu
+AGD-2026,PAC-0283,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,19,Segunda,Tarde,Não,2,Compareceu
+AGD-2027,PAC-0517,24,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,3,Sexta,Noite,Sim,2,Compareceu
+AGD-2028,PAC-0304,34,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,11,Segunda,Manhã,Sim,0,Faltou
+AGD-2029,PAC-0535,50,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,900,Particular,11,Quarta,Tarde,Sim,0,Compareceu
+AGD-2030,PAC-0157,15,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,9,Terça,Manhã,Sim,1,Compareceu
+AGD-2031,PAC-0313,36,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Convênio,2,Quinta,Manhã,Sim,0,Faltou
+AGD-2032,PAC-0412,56,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Convênio,10,Quarta,Manhã,Não,0,Faltou
+AGD-2033,PAC-0114,15,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,3,Terça,Tarde,Sim,0,Compareceu
+AGD-2034,PAC-0310,20,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,9,Quinta,Noite,Sim,0,Compareceu
+AGD-2035,PAC-0435,67,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Convênio,5,Terça,Manhã,Sim,0,Faltou
+AGD-2036,PAC-0442,41,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Convênio,0,Terça,Noite,Sim,1,Compareceu
+AGD-2037,PAC-0321,33,Masculino,Endodontia,Retratamento Endodôntico,120,850,Convênio,4,Sábado,Manhã,Sim,0,Faltou
+AGD-2038,PAC-0346,61,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,1400,Particular,7,Quarta,Noite,Não,1,Compareceu
+AGD-2039,PAC-0176,5,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,0,Sexta,Manhã,Sim,1,Compareceu
+AGD-2040,PAC-0358,14,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,5,Sexta,Tarde,Não,0,Faltou
+AGD-2041,PAC-0484,67,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Particular,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-2042,PAC-0269,29,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,9,Quarta,Tarde,Sim,0,Compareceu
+AGD-2043,PAC-0429,54,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,850,Convênio,2,Segunda,Manhã,Não,0,Faltou
+AGD-2044,PAC-0140,37,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Particular,5,Quinta,Manhã,Sim,0,Compareceu
+AGD-2045,PAC-0329,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,7,Sexta,Manhã,Sim,3,Faltou
+AGD-2046,PAC-0160,39,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,650,Particular,9,Terça,Tarde,Não,1,Faltou
+AGD-2047,PAC-0152,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Quinta,Tarde,Sim,0,Compareceu
+AGD-2048,PAC-0381,40,Masculino,Clínica Geral,Restauração em Resina,30,220,Particular,14,Quinta,Tarde,Sim,0,Compareceu
+AGD-2049,PAC-0360,21,Masculino,Clínica Geral,Avaliação Inicial,30,280,Convênio,0,Segunda,Tarde,Sim,1,Faltou
+AGD-2050,PAC-0274,25,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,160,Particular,16,Segunda,Tarde,Não,0,Compareceu
+AGD-2051,PAC-0532,37,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1400,Particular,4,Terça,Tarde,Sim,3,Compareceu
+AGD-2052,PAC-0466,29,Masculino,Clínica Geral,Avaliação Inicial,45,280,Particular,4,Sexta,Manhã,Não,0,Compareceu
+AGD-2053,PAC-0158,22,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-2054,PAC-0281,43,Masculino,Endodontia,Retratamento Endodôntico,90,1100,Convênio,19,Terça,Manhã,Sim,1,Compareceu
+AGD-2055,PAC-0459,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,2,Sexta,Manhã,Sim,3,Compareceu
+AGD-2056,PAC-0171,31,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,9,Quarta,Tarde,Sim,0,Compareceu
+AGD-2057,PAC-0200,37,Feminino,Periodontia,Raspagem e Aplainamento Radicular,45,380,Particular,2,Terça,Manhã,Sim,0,Compareceu
+AGD-2058,PAC-0210,41,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Particular,3,Sexta,Manhã,Sim,1,Compareceu
+AGD-2059,PAC-0155,36,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,20,Sexta,Tarde,Sim,0,Compareceu
+AGD-2060,PAC-0330,30,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),120,850,Particular,12,Sexta,Tarde,Sim,0,Compareceu
+AGD-2061,PAC-0355,9,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,250,Particular,3,Sábado,Noite,Sim,1,Compareceu
+AGD-2062,PAC-0529,48,Feminino,Endodontia,Retratamento Endodôntico,90,850,Particular,1,Quarta,Noite,Sim,0,Compareceu
+AGD-2063,PAC-0454,34,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,60,900,Convênio,1,Terça,Noite,Não,0,Compareceu
+AGD-2064,PAC-0153,9,Masculino,Odontopediatria,Restauração Decíduo,45,250,Particular,0,Quarta,Tarde,Sim,1,Compareceu
+AGD-2065,PAC-0314,19,Feminino,Clínica Geral,Avaliação Inicial,60,160,Convênio,1,Segunda,Manhã,Sim,0,Compareceu
+AGD-2066,PAC-0240,26,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,22,Sexta,Manhã,Não,1,Faltou
+AGD-2067,PAC-0512,37,Feminino,Clínica Geral,Restauração em Resina,30,280,Convênio,3,Terça,Tarde,Sim,1,Compareceu
+AGD-2068,PAC-0408,11,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Particular,8,Sexta,Manhã,Não,0,Faltou
+AGD-2069,PAC-0540,18,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,160,Convênio,28,Quinta,Tarde,Não,0,Faltou
+AGD-2070,PAC-0202,38,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Convênio,14,Sábado,Tarde,Não,2,Faltou
+AGD-2071,PAC-0451,28,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,5,Segunda,Tarde,Não,3,Faltou
+AGD-2072,PAC-0377,18,Masculino,Clínica Geral,Avaliação Inicial,60,220,Convênio,13,Quarta,Tarde,Sim,0,Compareceu
+AGD-2073,PAC-0463,23,Feminino,Clínica Geral,Restauração em Resina,45,280,Particular,9,Quarta,Manhã,Sim,1,Faltou
+AGD-2074,PAC-0398,11,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Particular,2,Sábado,Tarde,Sim,0,Compareceu
+AGD-2075,PAC-0246,39,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,650,Particular,0,Terça,Manhã,Sim,1,Compareceu
+AGD-2076,PAC-0112,20,Feminino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Particular,1,Quarta,Tarde,Sim,0,Compareceu
+AGD-2077,PAC-0443,71,Feminino,Endodontia,Tratamento de Canal (Molar),60,1100,Particular,9,Quinta,Tarde,Sim,1,Compareceu
+AGD-2078,PAC-0484,36,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,1500,Particular,11,Segunda,Noite,Não,1,Faltou
+AGD-2079,PAC-0174,18,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Particular,7,Quarta,Tarde,Não,1,Compareceu
+AGD-2080,PAC-0204,27,Masculino,Clínica Geral,Avaliação Inicial,30,220,Particular,4,Sexta,Manhã,Sim,0,Compareceu
+AGD-2081,PAC-0516,24,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,900,Particular,25,Terça,Noite,Sim,0,Faltou
+AGD-2082,PAC-0480,38,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,120,2200,Convênio,7,Quarta,Noite,Sim,1,Compareceu
+AGD-2083,PAC-0221,3,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,250,Particular,13,Sábado,Noite,Não,0,Faltou
+AGD-2084,PAC-0295,18,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,1100,Particular,11,Sexta,Tarde,Sim,0,Compareceu
+AGD-2085,PAC-0382,7,Masculino,Odontopediatria,Condicionamento e Profilaxia,30,250,Particular,5,Quarta,Tarde,Sim,0,Compareceu
+AGD-2086,PAC-0203,8,Feminino,Odontopediatria,Aplicação de Flúor/Selante,45,140,Convênio,11,Terça,Tarde,Sim,1,Compareceu
+AGD-2087,PAC-0486,26,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,16,Quarta,Tarde,Sim,0,Compareceu
+AGD-2088,PAC-0190,42,Masculino,Clínica Geral,Avaliação Inicial,30,160,Convênio,14,Sexta,Noite,Sim,0,Compareceu
+AGD-2089,PAC-0188,26,Feminino,Endodontia,Retratamento Endodôntico,120,650,Particular,11,Terça,Noite,Sim,1,Compareceu
+AGD-2090,PAC-0293,11,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,190,Particular,17,Sábado,Manhã,Não,1,Compareceu
+AGD-2091,PAC-0235,48,Masculino,Periodontia,Raspagem e Aplainamento Radicular,45,550,Particular,21,Sexta,Tarde,Sim,0,Compareceu
+AGD-2092,PAC-0533,29,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,1100,Particular,0,Quarta,Tarde,Sim,0,Compareceu
+AGD-2093,PAC-0338,5,Feminino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,11,Terça,Manhã,Sim,1,Compareceu
+AGD-2094,PAC-0265,37,Feminino,Clínica Geral,Avaliação Inicial,30,220,Convênio,4,Sábado,Manhã,Sim,0,Faltou
+AGD-2095,PAC-0351,49,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,1500,Convênio,13,Sábado,Manhã,Sim,3,Compareceu
+AGD-2096,PAC-0137,25,Feminino,Clínica Geral,Avaliação Inicial,45,160,Convênio,0,Quarta,Manhã,Sim,0,Compareceu
+AGD-2097,PAC-0194,40,Feminino,Endodontia,Retratamento Endodôntico,60,850,Convênio,0,Sábado,Tarde,Sim,0,Faltou
+AGD-2098,PAC-0312,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,9,Terça,Tarde,Sim,0,Compareceu
+AGD-2099,PAC-0209,21,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Convênio,7,Terça,Noite,Sim,0,Compareceu
+AGD-2100,PAC-0211,24,Feminino,Clínica Geral,Avaliação Inicial,60,280,Convênio,2,Terça,Manhã,Sim,0,Compareceu
+AGD-2101,PAC-0387,8,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-2102,PAC-0328,45,Feminino,Endodontia,Tratamento de Canal (Molar),120,850,Particular,9,Quinta,Manhã,Não,0,Compareceu
+AGD-2103,PAC-0120,27,Feminino,Endodontia,Retratamento Endodôntico,90,1400,Particular,9,Quarta,Tarde,Sim,0,Compareceu
+AGD-2104,PAC-0507,29,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,25,Quinta,Tarde,Não,0,Compareceu
+AGD-2105,PAC-0470,54,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,1500,Particular,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-2106,PAC-0363,21,Feminino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,34,Sexta,Manhã,Sim,0,Compareceu
+AGD-2107,PAC-0433,29,Masculino,Implantodontia / Cirurgia,Instalação de Implante,90,450,Particular,14,Quinta,Tarde,Sim,1,Compareceu
+AGD-2108,PAC-0149,33,Feminino,Implantodontia / Cirurgia,Instalação de Implante,120,450,Particular,9,Segunda,Noite,Sim,0,Compareceu
+AGD-2109,PAC-0420,6,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,250,Particular,2,Terça,Manhã,Não,0,Compareceu
+AGD-2110,PAC-0542,6,Masculino,Odontopediatria,Aplicação de Flúor/Selante,45,140,Particular,16,Quarta,Noite,Sim,0,Compareceu
+AGD-2111,PAC-0375,18,Masculino,Endodontia,Retratamento Endodôntico,120,1400,Particular,3,Sábado,Manhã,Sim,0,Compareceu
+AGD-2112,PAC-0431,27,Masculino,Endodontia,Tratamento de Canal (Molar),120,850,Particular,0,Quinta,Noite,Sim,0,Compareceu
+AGD-2113,PAC-0112,14,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,7,Quarta,Manhã,Sim,0,Compareceu
+AGD-2114,PAC-0137,43,Feminino,Clínica Geral,Restauração em Resina,30,220,Convênio,3,Quarta,Manhã,Sim,0,Compareceu
+AGD-2115,PAC-0385,33,Feminino,Clínica Geral,Restauração em Resina,60,160,Convênio,0,Sexta,Manhã,Sim,1,Compareceu
+AGD-2116,PAC-0232,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,5,Terça,Manhã,Sim,0,Compareceu
+AGD-2117,PAC-0307,39,Feminino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),90,650,Convênio,2,Quarta,Tarde,Sim,0,Compareceu
+AGD-2118,PAC-0299,3,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Particular,7,Segunda,Manhã,Sim,0,Compareceu
+AGD-2119,PAC-0428,45,Feminino,Clínica Geral,Avaliação Inicial,60,100,Convênio,3,Quarta,Noite,Sim,0,Compareceu
+AGD-2120,PAC-0487,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,7,Terça,Manhã,Sim,0,Compareceu
+AGD-2121,PAC-0154,31,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,60,220,Particular,45,Segunda,Noite,Não,0,Faltou
+AGD-2122,PAC-0410,24,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,6,Sexta,Tarde,Sim,1,Compareceu
+AGD-2123,PAC-0302,49,Feminino,Clínica Geral,Avaliação Inicial,30,280,Convênio,1,Segunda,Tarde,Não,0,Faltou
+AGD-2124,PAC-0180,33,Masculino,Endodontia,Retratamento Endodôntico,60,850,Convênio,4,Quarta,Noite,Sim,0,Compareceu
+AGD-2125,PAC-0482,5,Feminino,Odontopediatria,Restauração Decíduo,45,250,Particular,0,Terça,Manhã,Sim,1,Compareceu
+AGD-2126,PAC-0252,37,Masculino,Endodontia,Retratamento Endodôntico,120,1100,Convênio,2,Terça,Noite,Sim,0,Compareceu
+AGD-2127,PAC-0105,54,Feminino,Endodontia,Retratamento Endodôntico,120,850,Convênio,16,Segunda,Noite,Sim,0,Compareceu
+AGD-2128,PAC-0163,45,Feminino,Endodontia,Tratamento de Canal (Molar),60,1400,Particular,18,Sábado,Tarde,Sim,0,Compareceu
+AGD-2129,PAC-0375,35,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,0,Sexta,Manhã,Sim,0,Compareceu
+AGD-2130,PAC-0479,40,Masculino,Periodontia,Cirurgia Periodontal a Retalho,45,380,Convênio,6,Terça,Noite,Não,1,Compareceu
+AGD-2131,PAC-0430,18,Feminino,Clínica Geral,Avaliação Inicial,30,160,Convênio,12,Segunda,Manhã,Sim,3,Compareceu
+AGD-2132,PAC-0194,18,Feminino,Periodontia,Raspagem e Aplainamento Radicular,60,250,Particular,15,Quinta,Tarde,Sim,1,Faltou
+AGD-2133,PAC-0158,32,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,19,Quarta,Tarde,Sim,0,Compareceu
+AGD-2134,PAC-0381,18,Feminino,Clínica Geral,Restauração em Resina,45,100,Particular,3,Sexta,Noite,Sim,0,Compareceu
+AGD-2135,PAC-0228,12,Feminino,Odontopediatria,Condicionamento e Profilaxia,30,250,Convênio,12,Quarta,Tarde,Sim,0,Compareceu
+AGD-2136,PAC-0349,29,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,45,160,Convênio,2,Sexta,Tarde,Sim,1,Compareceu
+AGD-2137,PAC-0443,40,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,60,450,Convênio,1,Terça,Tarde,Sim,0,Compareceu
+AGD-2138,PAC-0245,8,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,140,Particular,10,Quarta,Tarde,Sim,0,Compareceu
+AGD-2139,PAC-0348,34,Masculino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,15,Sexta,Manhã,Sim,1,Compareceu
+AGD-2140,PAC-0399,34,Feminino,Endodontia,Tratamento de Canal (Molar),120,1100,Convênio,9,Segunda,Manhã,Não,3,Compareceu
+AGD-2141,PAC-0513,12,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,3,Segunda,Tarde,Sim,1,Faltou
+AGD-2142,PAC-0260,21,Masculino,Endodontia,Tratamento de Canal (Molar),60,1400,Particular,8,Terça,Noite,Sim,0,Compareceu
+AGD-2143,PAC-0241,8,Masculino,Odontopediatria,Restauração Decíduo,30,250,Particular,1,Terça,Tarde,Sim,0,Compareceu
+AGD-2144,PAC-0549,18,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,2200,Convênio,7,Quinta,Noite,Sim,3,Faltou
+AGD-2145,PAC-0283,62,Masculino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,450,Particular,8,Segunda,Tarde,Sim,0,Compareceu
+AGD-2146,PAC-0189,50,Feminino,Endodontia,Retratamento Endodôntico,120,650,Particular,5,Terça,Tarde,Sim,2,Compareceu
+AGD-2147,PAC-0530,43,Masculino,Endodontia,Tratamento de Canal (Pré-Molar/Anterior),60,850,Particular,3,Sexta,Manhã,Sim,0,Compareceu
+AGD-2148,PAC-0234,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,4,Terça,Tarde,Sim,0,Compareceu
+AGD-2149,PAC-0423,41,Masculino,Implantodontia / Cirurgia,Instalação de Implante,120,2200,Convênio,22,Quarta,Tarde,Sim,0,Compareceu
+AGD-2150,PAC-0493,41,Feminino,Endodontia,Retratamento Endodôntico,60,650,Convênio,4,Quarta,Tarde,Sim,0,Compareceu
+AGD-2151,PAC-0382,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,3,Terça,Tarde,Sim,0,Compareceu
+AGD-2152,PAC-0300,26,Masculino,Implantodontia / Cirurgia,Instalação de Implante,120,1500,Convênio,0,Sexta,Manhã,Não,0,Faltou
+AGD-2153,PAC-0168,23,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,18,Quinta,Tarde,Sim,0,Compareceu
+AGD-2154,PAC-0357,36,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,1,Segunda,Tarde,Sim,0,Compareceu
+AGD-2155,PAC-0363,26,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,900,Convênio,1,Sábado,Manhã,Sim,2,Compareceu
+AGD-2156,PAC-0191,50,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,120,900,Convênio,0,Terça,Tarde,Sim,0,Compareceu
+AGD-2157,PAC-0476,33,Feminino,Endodontia,Retratamento Endodôntico,90,1100,Particular,0,Quarta,Manhã,Sim,2,Compareceu
+AGD-2158,PAC-0120,14,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Convênio,23,Quarta,Tarde,Não,1,Faltou
+AGD-2159,PAC-0235,18,Masculino,Clínica Geral,Profilaxia e Raspagem Supragengival,30,100,Particular,0,Quinta,Tarde,Sim,2,Compareceu
+AGD-2160,PAC-0442,27,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,17,Segunda,Tarde,Sim,1,Compareceu
+AGD-2161,PAC-0332,41,Feminino,Clínica Geral,Restauração em Resina,30,220,Particular,16,Quarta,Manhã,Não,0,Compareceu
+AGD-2162,PAC-0152,24,Feminino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,2,Sexta,Manhã,Sim,0,Compareceu
+AGD-2163,PAC-0434,28,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,4,Quinta,Tarde,Sim,1,Compareceu
+AGD-2164,PAC-0228,34,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),60,2200,Convênio,21,Sábado,Manhã,Não,0,Faltou
+AGD-2165,PAC-0280,12,Feminino,Odontopediatria,Restauração Decíduo,45,190,Particular,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-2166,PAC-0103,35,Feminino,Endodontia,Retratamento Endodôntico,60,1400,Particular,0,Sexta,Noite,Sim,0,Compareceu
+AGD-2167,PAC-0184,18,Feminino,Implantodontia / Cirurgia,Instalação de Implante,60,1500,Particular,6,Quinta,Tarde,Sim,0,Compareceu
+AGD-2168,PAC-0208,42,Feminino,Clínica Geral,Restauração em Resina,30,160,Particular,1,Quinta,Tarde,Sim,0,Compareceu
+AGD-2169,PAC-0285,54,Feminino,Clínica Geral,Avaliação Inicial,60,100,Convênio,6,Sábado,Manhã,Sim,1,Compareceu
+AGD-2170,PAC-0438,31,Feminino,Clínica Geral,Restauração em Resina,45,220,Particular,1,Quinta,Manhã,Não,0,Compareceu
+AGD-2171,PAC-0468,53,Feminino,Implantodontia / Cirurgia,Instalação de Implante,90,2200,Convênio,12,Quarta,Noite,Sim,0,Compareceu
+AGD-2172,PAC-0345,55,Masculino,Clínica Geral,Restauração em Resina,60,160,Convênio,1,Quarta,Manhã,Sim,0,Compareceu
+AGD-2173,PAC-0431,37,Feminino,Periodontia,Cirurgia Periodontal a Retalho,45,250,Convênio,16,Quarta,Manhã,Sim,0,Compareceu
+AGD-2174,PAC-0122,36,Feminino,Clínica Geral,Restauração em Resina,60,160,Convênio,0,Quinta,Manhã,Não,0,Faltou
+AGD-2175,PAC-0168,38,Feminino,Implantodontia / Cirurgia,Enxerto Ósseo,120,450,Particular,14,Quinta,Tarde,Sim,0,Compareceu
+AGD-2176,PAC-0393,33,Feminino,Endodontia,Tratamento de Canal (Molar),60,850,Particular,22,Quarta,Tarde,Sim,0,Compareceu
+AGD-2177,PAC-0232,21,Feminino,Endodontia,Tratamento de Canal (Molar),120,1400,Particular,45,Segunda,Manhã,Não,0,Compareceu
+AGD-2178,PAC-0406,55,Masculino,Clínica Geral,Avaliação Inicial,60,100,Particular,0,Segunda,Manhã,Sim,0,Compareceu
+AGD-2179,PAC-0549,40,Masculino,Implantodontia / Cirurgia,Enxerto Ósseo,120,1500,Convênio,15,Terça,Manhã,Sim,1,Compareceu
+AGD-2180,PAC-0143,27,Feminino,Ortodontia,Manutenção Ortodôntica,30,220,Convênio,6,Quinta,Manhã,Não,1,Faltou
+AGD-2181,PAC-0187,5,Feminino,Odontopediatria,Condicionamento e Profilaxia,45,250,Convênio,5,Quarta,Noite,Sim,0,Compareceu
+AGD-2182,PAC-0506,35,Masculino,Ortodontia,Manutenção Ortodôntica,30,180,Particular,5,Quarta,Tarde,Sim,2,Compareceu
+AGD-2183,PAC-0451,19,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Convênio,6,Sexta,Tarde,Não,1,Faltou
+AGD-2184,PAC-0293,3,Feminino,Odontopediatria,Restauração Decíduo,30,140,Particular,13,Terça,Noite,Sim,0,Compareceu
+AGD-2185,PAC-0203,17,Masculino,Ortodontia,Manutenção Ortodôntica,30,150,Particular,2,Terça,Tarde,Sim,1,Compareceu
+AGD-2186,PAC-0343,11,Masculino,Odontopediatria,Aplicação de Flúor/Selante,30,250,Particular,17,Sexta,Manhã,Não,1,Compareceu
+AGD-2187,PAC-0485,33,Masculino,Clínica Geral,Restauração em Resina,30,280,Convênio,12,Terça,Manhã,Sim,0,Compareceu
+AGD-2188,PAC-0437,65,Feminino,Endodontia,Tratamento de Canal (Molar),120,650,Convênio,3,Sexta,Noite,Sim,1,Faltou
+AGD-2189,PAC-0496,13,Feminino,Ortodontia,Manutenção Ortodôntica,30,200,Particular,28,Sexta,Manhã,Não,0,Faltou
+AGD-2190,PAC-0457,37,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,0,Segunda,Tarde,Sim,0,Compareceu
+AGD-2191,PAC-0493,18,Feminino,Implantodontia / Cirurgia,Exodontia de Terceiro Molar (Siso),90,450,Convênio,17,Sábado,Noite,Sim,0,Compareceu
+AGD-2192,PAC-0317,35,Feminino,Endodontia,Tratamento de Canal (Molar),90,1400,Convênio,4,Quarta,Noite,Sim,1,Faltou
+AGD-2193,PAC-0492,34,Masculino,Clínica Geral,Restauração em Resina,30,220,Particular,1,Terça,Tarde,Sim,2,Compareceu
+AGD-2194,PAC-0406,37,Feminino,Periodontia,Cirurgia Periodontal a Retalho,60,250,Convênio,7,Terça,Noite,Não,1,Faltou
+AGD-2195,PAC-0102,45,Feminino,Endodontia,Retratamento Endodôntico,120,650,Particular,18,Terça,Manhã,Sim,0,Compareceu
+AGD-2196,PAC-0395,50,Feminino,Endodontia,Retratamento Endodôntico,60,650,Particular,5,Terça,Manhã,Não,0,Compareceu
+AGD-2197,PAC-0292,23,Masculino,Ortodontia,Manutenção Ortodôntica,30,220,Particular,6,Terça,Tarde,Não,1,Faltou
+AGD-2198,PAC-0154,48,Masculino,Clínica Geral,Restauração em Resina,45,220,Particular,0,Segunda,Manhã,Sim,0,Compareceu
+AGD-2199,PAC-0233,37,Masculino,Periodontia,Cirurgia Periodontal a Retalho,60,550,Convênio,0,Terça,Tarde,Sim,1,Compareceu
+AGD-2200,PAC-0241,41,Feminino,Clínica Geral,Avaliação Inicial,45,160,Convênio,5,Terça,Manhã,Sim,0,Compareceu
